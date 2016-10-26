@@ -1,0 +1,604 @@
+# your first 625 words (from fluent forever)
+actor
+adjective
+adult
+afternoon
+air
+airport
+alive
+animal
+apartment
+apple
+April
+arm
+army
+art
+artist
+attack (n)
+August
+author (n)
+baby
+back (body)
+back (direction)
+bad
+bag (n)
+ball
+banana
+band (music)
+bank
+bar (location)
+bathroom
+beach
+beard
+beat (v)
+beautiful
+bed
+bedroom
+beef
+beer
+bend (v)
+beverage
+bicycle
+big/large
+bill (n)
+billion
+bird
+black
+blind (adj)
+blood
+blue
+boat
+body
+bone
+book
+bottle
+bottom
+box (n)
+boy
+brain
+bread
+break (v)
+breakfast
+bridge (n)
+brother
+brown
+build (v)
+building
+burn (v)
+bus
+buy (v)
+cake
+call (v)
+camera
+camp (n)
+car
+card
+carry (v)
+eat
+catch (v)
+ceiling
+cell phone
+centimeter
+chair (n)
+cheap
+cheese
+chicken
+child
+church
+circle (n)
+city
+clay
+clean (adj)
+clean (v)
+clock
+close (v)
+clothing
+club (location)
+coat (n)
+coffee
+cold
+color (n)
+computer
+consonant
+contract (n)
+cook (v)
+cool (adj)
+copper
+corn
+corner (n)
+count (v)
+country (ex: USA, Spain)
+court
+cow
+crowd (n)
+cry (v)
+cup
+curved
+cut (v)
+dance (v)
+dark
+date (ex: May 7)
+daughter
+day
+dead
+deaf
+death
+December
+deep
+diamond
+die (v)
+dig (v)
+dinner
+direction
+dirty
+disease
+doctor
+dog
+dollar
+door
+dot
+down
+draw (v)
+dream (n)
+dress (n)
+drink (v)
+drive (v)
+drug (n)
+dry
+dust
+ear
+Earth
+east
+eat (v)
+edge
+egg
+eight
+eighteen
+eighty
+election
+electronics
+eleven
+energy
+engine
+evening
+exercise (n)
+expensive
+explode (v)
+eye (n)
+face (n)
+fall (season)
+fall (v)
+family
+famous
+fan (electric)
+fan (sport)
+farm (n)
+fast
+father
+February
+feed (v)
+female
+fifteen
+fifth (5th)
+fifty
+fight (v)
+find (v)
+finger
+fire (n)
+first (1st)
+fish (n)
+five
+flat (adj)
+floor
+flower
+fly (v)
+follow (v)
+food
+foot (body part)
+foot (measurement)
+forest
+fork
+forty
+four
+fourteen
+fourth (4th)
+Friday
+friend
+front
+game
+garden
+gasoline
+gift
+girl
+glass
+go (v)
+God
+gold
+good
+grandfather
+grandmother
+grass
+gray
+green
+ground
+grow (v)
+gun
+hair
+half
+hand
+hang (v)
+happy
+hard
+hat
+he
+head
+healthy
+hear (a sound)
+heart
+heat (n)
+heaven
+heavy
+hell
+high
+hill
+hole
+horse
+hospital
+hot
+hotel
+hour
+house
+human
+hundred
+husband
+I
+ice
+image
+inch
+injury
+inside
+instrument (musical)
+island
+it
+January
+job
+juice
+July
+jump (v)
+June
+key
+kill (v)
+kilogram
+king
+kiss (v)
+kitchen
+knee
+knife
+lake
+lamp
+laptop
+laugh (v)
+lawyer
+leaf
+learn (v)
+left (direction)
+leg
+lemon
+letter
+library
+lie down (v)
+lift (v)
+light (/dark)
+light (/heavy)
+light (n)
+lip
+listen (music,v)
+location
+lock (n)
+long
+loose
+lose (v)
+loud
+love (v)
+low
+lunch
+magazine
+male
+man
+manager
+map
+March
+market
+marriage
+marry (v)
+material
+May
+mean (/nice)
+medicine
+melt (v)
+metal
+meter
+milk
+million
+minute
+mix/stir (v)
+Monday
+money
+month
+moon
+morning
+mother
+mountain
+mouse
+mouth
+movie
+murder (n)
+music
+narrow
+nature
+neck
+needle
+neighbor
+network
+new
+newspaper
+nice
+night
+nine
+nineteen
+ninety
+no
+north
+nose
+note (on paper)
+November
+nuclear
+number
+ocean
+October
+office
+oil
+old (/new)
+old (/young)
+one
+open (v)
+orange (color)
+orange (food)
+outside
+page
+pain
+paint
+pants
+paper
+parent
+park (location)
+pass (v)
+patient (n)
+pattern
+pay (v)
+peace
+pen
+pencil
+person
+photograph
+piece
+pig
+pink
+plane
+plant (n)
+plastic
+plate
+play (v)
+player
+pocket
+poison (n)
+police
+pool
+poor
+pork
+pound (weight)
+pray (v)
+president
+price
+priest
+prison
+program (computer)
+pull (v)
+push (v)
+queen
+quiet
+race (ethnicity)
+race (sport)
+radio
+rain (n)
+red
+religion
+reporter
+restaurant
+rice
+rich
+right (direction)
+ring
+river
+roof
+room (in a house)
+root
+run (v)
+sad
+salt
+sand
+Saturday
+school
+science
+screen
+sea
+season
+second (2nd)
+second (time)
+secretary
+see (a bird)
+seed
+sell (v)
+September
+seven
+seventeen
+seventy
+sex (gender)
+sex (the act)
+shake (v)
+shallow
+she
+ship
+shirt
+shoes
+shoot (a gun)
+short (/long)
+short (/tall)
+shoulder
+sick
+side
+sign (n)
+sign (v)
+silver
+sing (v)
+sister
+sit (v)
+six
+sixteen
+sixty
+skin
+skirt
+sky
+sleep (v)
+slow
+small/little
+smell (v)
+smile (v)
+snow (n)
+soap
+soft
+soil/earth
+soldier
+son
+song
+sound
+soup
+south
+space (outer space)
+speak/say (v)
+spoon
+sport
+spring (season)
+square
+stain
+stand (v)
+star
+stone
+stop (v)
+store/shop
+straight
+street/road
+strong
+student
+sugar
+suit (n)
+summer
+sun
+Sunday
+sweat (n)
+swim (v)
+T-shirt
+table
+tall
+taste (v)
+tea
+teacher
+team
+tear (drop)
+technology
+telephone
+television
+temperature
+ten
+theater
+they
+thick
+thin
+think (v)
+third (3rd)
+thirteen
+thirty
+thousand
+three
+throw (v)
+Thursday
+ticket (train)
+tight
+time (n)
+tire (of a car)
+toe
+tongue
+tool
+tooth
+top
+touch (v)
+town
+train (n)
+train station
+transportation
+tree
+truck
+Tuesday
+turn (v)
+twelve
+twenty
+twenty-one (etc)
+two
+ugly
+university
+up
+valley
+verb
+victim
+voice (n)
+vowel
+waiter
+wake up (v)
+walk (v)
+wall
+war
+warm (adj)
+wash (v)
+watch (v, ex: watch tv)
+water (n)
+wave (ocean)
+we
+weak
+wear (v)
+wedding
+Wednesday
+week
+weight
+west
+wet (adj)
+white
+wide
+wife
+win (v)
+wind (n)
+window
+wine
+wing
+winter
+woman
+wood
+work (v)
+world
+write (v)
+yard
+year
+yellow
+yes
+you (sing, plural)
+young
+zero
