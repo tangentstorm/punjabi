@@ -17,3 +17,160 @@ pa,en,pos,note
 ਅਸੀਂ,we,pn,1p
 ਲਿਖਣਾ,write,v,i
 ਤੁਸੀਂ,you,pn,2sp
+ਬਣਨਾ,become,v,i
+ਬਦਲਣਾ,change,v,i
+ਨਿਕਲਣਾ,come out/leave,v,i
+ਲੱਭਣਾ,find,v,i
+ਜਾਣਨਾ,know,v,i
+ਸੁਣਨਾ,listen/hear,v,i
+ਿਮਲਣਾ,meet,v,i
+ਖੋਲਹਣਾ,open,v,i
+ਰੱਖਣਾ,put/keep,v,i
+ਪੜਹਨਾ,read,v,i
+ਬੈਠਣਾ,sit,v,i
+ਦੱਸਣਾ,tell,v,i
+ਸੋਚਣਾ,think,v,i
+ਸਮਝਣਾ,explain,v,i
+ਵਰਤਣਾ,use,v,i
+ਤੁਰਨਾ,walk,v,i
+ਿਲਖਣਾ,write,v,i
+ਬਾਰੇ,about,pp,
+ਿਕਤਾਬ,book,n,f
+ਦਰਵਾਜ਼ਾ,door,n,m
+ਲਈ,for,pp,
+ਤੋਂ,from,pp,
+ਿਵੱਚ,in,pp,
+ਿਵੱਚ,my,pn,1sP
+ਦਾ,of,pp,
+ਉੱਤੇ,on,pp,
+ਸਾਡਾ,our,pn,1pP
+ਗੀਤ,song(s),n,m
+ਕਹਾਣੀ,story,n,f
+ਨੂੰ,to,pp,
+ਮੈਨੂੰ,to me,1sO
+ਸਾਨੂੰ,to us,1pO
+ਤੁਹਾਨੂੰ,to you,2spO
+ਨਾਲ,with,pp,
+ਤੁਹਾਡਾ,your,pn,2spP
+ਿਕਤਾਬਾਂ,books,n,fp
+ਗੱਡੀਆਂ,cars,n,fp
+ਿਬੱਲੀ,cat,n,fs
+ਕੁਰਸੀਆਂ,chairs,n,fp
+ਦਰਵਾਜੇ,doors,n,mp
+ਦੋਸਤ,friend(s),n,m
+ਤੋਹਫ਼ੇ,gifts,n,mp
+ਘਰ,house(s),n,m
+ਿਚੱਠੀਆਂ,letters,n,fp
+ਰਸਾਲੇ,magazines,n,mp
+ਿਫਲਮ,movie,n,fs
+ਰਾਹ,path(s),n,m
+ਤਸਵੀਰਾਂ,pictures,n,fp
+ਕੀਮਤ,price,n,fs
+ਕਾਰਨ,reason(s),n,m
+ਦੁਕਾਨ,shop,n,fs
+ਕਹਾਣੀਆਂ,stories,n,fp
+ਕੰਮ,work,n,m
+ਅਤੇ,and,c,
+ਤੇ,and,c,
+ਿਕਉਂਿਕ,because,c,
+ਪਰ,but,c,
+ਸਕਣਾ,can,v,i
+ਖਾਣਾ,eat,v,i
+ਭੋਜਨ,food,n,m
+ਦੇਣਾ,give,v,i
+ਚੰਗਾ,good,adj,
+ਖੁਸ਼,happy,adj,
+ਜੇ,if,c,
+ਨਹੀ,not,?,
+ਿਕ,that,?,
+ਤਾਂ,then,c,
+ਜਦੋਂ,when,?,
+ਪਾਉਣਾ,achive,v,i
+ਿਲਆਉਣਾ,bring,v,i
+ਬੁਲਾਉਣਾ,call/summon,v,i
+ਆਉਣਾ,come,v,i
+ਚਲਾਉਣਾ,drive,v,i
+ਸਮਝਾਉਣਾ,explain,v,i
+ਗੁਆਉਣਾ,lose,v,i
+ਬਣਾਉਣਾ,make,v,i
+ਬਚਾਉਣਾ,save/rescue,v,i
+ਿਦਖਾਉਣਾ,show,v,i
+ਗਾਉਣਾ,sing,v,i
+ਿਸਖਾਉਣਾ,teach,v,i
+ਲੈਣਾ,take/receive,v,i
+ਪੀਣਾ,drink,v,i
+ਸੌਣਾ,sleep,v,i
+ਰੋਟੀ,bread,n,f
+ਖ਼ਰੀਦਣਾ,buy,v,i
+ਗੱਡੀ,car,n,fs
+ਕੁਰਸੀ,chair,n,fs
+ਕੱਪੜੇ,clothes,n,m
+ਸੌਖਾ,easy,adj,
+ਔਖਾ,hard,adj,
+ਮਹੱਤਵਪੂਰਣ,important,adj,
+ਿਦਲਚਸਪ,interesting,adj,
+ਪੈਸਾ,money,n,m
+ਜ਼ਰੂਰੀ,necessary,adj,
+ਕਮਰਾ,room,n,m
+ਜੁੱਤੀਆਂ,shoes,n,fp
+ਚੁੱਪ,silence,n,f
+ਤਾਂਿਕ,so that,c,
+ਚਾਹੁਣਾ,want,v,i
+ਪਾਣੀ,water,n,m
+ਵਜੇ,chimes/o'clock,n,m
+ਪੈਣਾ,have/must/to fall(rain/snow),v,i
+ਮੀਂਹ,rain,n,m
+ਚਾਹੀਦਾ,should,?,
+ਬਰਫ਼,snow/ice,n,f
+ਤਕ,until/up to,p,
+ਇਕ,one,#,
+ਦੋ,two,#,
+ਿਤੰਨ,three,#,
+ਚਾਰ,four,#,
+ਪੰਜ,five,#,
+ਛੇ,six,#,
+ਸੱਤ,seven,#,
+ਅੱਠ,eight,#,
+ਨੌ,nine,#,
+ਦਸ,ten,#,
+ਿਗਆਰਾਂ,eleven,#,
+ਬਾਰਹਾਂ,twelve,#,
+ਸਾਰਾ,all,?,
+ਬੁਰਾ,bad,adj,
+ਸੋਹਣਾ,beautiful,adj,
+ਵੱਡਾ,big,adj,
+ਵੱਖਰਾ,different,adj,
+ਮੋਟਾ,fat,adj,
+ਪਿਹਲਾ,first,adj,
+ਉਸ ਦਾ,his/her,pn,3sP
+ਲੰਬਾ,long/tall,adj,
+ਨਵਾਂ,new,adj,
+ਅਗਲਾ,next,adj,
+ਪੁਰਾਣਾ,old,adj,
+ਦੂਜਾ,other/second,adj,
+ਦੂਸਰਾ,other/second,adj,
+ਛੋਟਾ,small/short,adj,
+ਉਹਨਾਂ ਦਾ,their,pn,3pP
+ਥੋੜਹਾ,tiny/little,adj,
+ਬਹੁਤ,very,?,
+ਜਵਾਬ ਦੇਣਾ,answer,v,cm
+ਕਦਰ ਕਰਨੀ,appreciate,v,cf
+ਸ਼ੁਰੂ ਕਰਨਾ,begin/start,v,cm
+ਫ਼ੈਸਲਾ ਕਰਨਾ,decide,v,cm
+ਆਨੰਦ ਮਾਣਨਾ,enjoy,v,cm
+ਖਤਮ ਕਰਨਾ,finish,v,cm
+ਮਦਦ ਕਰਨੀ,help,v,cf
+ਿਕਵੇਂ,how,?,
+ਿਕੰਨਾ,how much/many,?,
+ਿਪਆਰ ਕਰਨਾ,love,v,cm
+ਵਾਅਦਾ ਕਰਨਾ,promise,v,cm
+ਯਾਦ ਰੱਖਣੀ,remember,v,cf
+ਯਾਦ ਕਰਾਉਣੀ,remind,v,cf
+ਕੋਿਸ਼ਸ਼ ਕਰਨੀ,try,v,cf
+ਕੀ,what,?,
+ਕਦੋਂ,when,?,
+ਿਕਥੇ,where,?,
+ਿਕਹੜਾ,which,?,
+ਕੌਣ,who,?,
+ਿਕਉਂ,why,?,
+ਕੰਮ ਕਰਨਾ,work,v,cm
