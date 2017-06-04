@@ -44,51 +44,53 @@ big/large|ਵੱਡੇ
 bill (n)|ਬਿੱਲ or ਨੋਟ
 billion|ਅਰਬ
 bird|ਪੰਛੀ
-black
-blind (adj)
-blood
-blue
-boat
-body
-bone
-book
-bottle
-bottom
-box (n)
-boy
-brain
-bread
-break (v)
-breakfast
-bridge (n)
-brother
-brown
-build (v)
-building
-burn (v)
-bus
-buy (v)
-cake
-call (v)
-camera
-camp (n)
-car
-card
-carry (v)
-eat
-catch (v)
-ceiling
-cell phone
-centimeter
-chair (n)
-cheap
-cheese
-chicken
-child
-church
-circle (n)
-city
-clay
+
+
+black|ਕਾਲਾ
+blind (adj)|ਅੰਨਹੇ / ਅੰਨ੍ਹੇ
+blood|ਬਲੱਡ
+blue|ਨੀਲਾ
+boat|ਕਿਸ਼ਤੀ
+body|ਸਰੀਰ
+bone|ਹੱਡੀ
+book|ਕਿਤਾਬ
+bottle|ਬੋਤਲ
+bottom|ਤਲ
+box (n)|ਬਾਕਸ ਨੂੰ
+boy|ਮੁੰਡਾ
+brain|ਦਿਮਾਗ ਨੂੰ
+bread|ਰੋਟੀ ਦਾ Rōṭī dā
+break (v)|ਬ੍ਰੇਕ
+breakfast|ਨਾਸ਼ਤਾ
+bridge (n)|ਪੁਲ
+brother|ਭਰਾ
+brown|ਭੂਰਾ
+build (v)|ਨੂੰ ਬਾਣਾਉਣ
+building|ਇਮਾਰਤ ਨੂੰ
+burn (v)|ਨੂੰ ਸਾੜ
+bus|ਬੱਸ
+buy (v)|ਖਰੀਦਣ
+cake|ਕੇਕ
+call (v)|ਕਾਲ ਦਾ
+camera|ਕੈਮਰਾ
+camp (n)|ਡੇਰੇ
+car|ਕਾਰ ਨੂੰ
+card|ਕਾਰਡ
+carry (v)|ਲੈ
+cat|ਬਿੱਲੀ
+catch (v)|ਨੂੰ ਕੈਚ
+ceiling|ਛੱਤ
+cell phone|ਫ਼ਨ
+centimeter|??
+chair (n)|ਕੁਰਸੀ
+cheap|ਸਸਤੇ
+cheese|ਪਨੀਰ
+chicken|ਮੁਰਗੇ
+child|ਬੱਚੇ ਨੂੰ
+church|ਚਰਚ ਦੇ
+circle (n)|ਚੱਕਰ
+city|ਸ਼ਹਿਰ ਦੀ
+clay|ਮਿੱਟਾ
 clean (adj)
 clean (v)
 clock
@@ -134,15 +136,15 @@ direction
 dirty
 disease
 doctor
-dog
+dog|ਕੁੱਤਾ
 dollar
 door
 dot
 down
 draw (v)
-dream (n)
+dream (n)|ਸੁਪਨੇ
 dress (n)
-drink (v)
+drink (v)|ਪਿਣ ਨੂੰ
 drive (v)
 drug (n)
 dry
@@ -150,11 +152,11 @@ dust
 ear
 Earth
 east
-eat (v)
+eat (v)|ਖਾਣ ਦੀ
 edge
 egg
-eight
-eighteen
+eight|ਅੱਠ
+eighteen|ਅਠਾਰਾ
 eighty
 election
 electronics
@@ -174,8 +176,8 @@ famous
 fan (electric)
 fan (sport)
 farm (n)
-fast
-father
+fast|ਤੇਜ਼
+father|ਪਿਤਾ ਨੇ
 February
 feed (v)
 female
@@ -185,13 +187,13 @@ fifty
 fight (v)
 find (v)
 finger
-fire (n)
+fire (n)|ਅੱਗ
 first (1st)
 fish (n)
 five
 flat (adj)
 floor
-flower
+flower|ਫੁੱਲ
 fly (v)
 follow (v)
 food
