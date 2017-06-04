@@ -1,48 +1,49 @@
 # your first 625 words (from fluent forever)
-actor
-adjective
-adult
-afternoon
-air
-airport
-alive
-animal
-apartment
-apple
-April
-arm
-army
-art
-artist
-attack (n)
-August
-author (n)
-baby
-back (body)
-back (direction)
-bad
-bag (n)
-ball
-banana
-band (music)
-bank
-bar (location)
-bathroom
-beach
-beard
-beat (v)
-beautiful
-bed
-bedroom
-beef
-beer
-bend (v)
-beverage
-bicycle
-big/large
-bill (n)
-billion
-bird
+actor|ਅਭਿਨੇਤਾ
+adjective|ਤੀਰਅੰਦਾਜ਼
+adult|ਬਾਲਗ
+afternoon|ਦੁਪਹਿਰ ਨੂੰ
+air|ਹਵਾ
+airport|ਹਵਾਈ ਅੱਡੇ
+alive|ਜਿੰਦਾ
+animal|ਜਾਨਵਰ
+apartment|ਮਕਾਨ
+apple|ਸੇਬ
+April|ਅਪ੍ਰੈਲ
+arm|ਆਰਮ ਬਾਹ
+army|ਫ਼ੌਜੀ
+art|ਕਲਾ
+artist|ਕਲਾਕਾਰ
+attack (n)|ਹਮਲਾ
+Attack (v)|ਹਮਲੇ
+August|ਅਗਸਤ
+author (n)|ਲੇਖਕ
+baby|ਬੱਚਾ
+back (body)|? ਪੀਥ
+back (direction)|ਵਾਪਸ
+bad|ਮੰਦਾ
+bag (n)|ਲਫਾਫਾ
+ball|ਬਾਲ or ਗੇੰਢ
+banana|ਕੇਲਾ
+band (music)|? ਵਾਜੇ ਵਾਲਾ
+bank|ਬੇੰਕ (account: ਖਾਤਾ)
+bar (location)|ਠੈਕਾ
+bathroom|ਬਾਥਰੂਮ or ਗੂਸਲਖਾਨਾ
+beach|ਬੀਚ or ਸਮੂਨਦਰ ਦੈ ਕੀਨਾਰੇ
+beard|ਦਾੜ੍ਹੀ
+beat (v)|ਨਾਲ ਹਰਾਇਆ
+beautiful|ਸੁੰਦਰ
+bed|ਮੰਜੇ
+bedroom|ਬੈੱਡਰੂਮ   or ਸੌਨ ਵਾਲਾ ਕਮਰਾ
+beef|ਬੀਫ or ਮਾਜ ਦਾ ਮੀਟ
+beer|ਬੀਅਰ
+bend (v)|ਮੋੜ
+beverage|ਪੀਨਾ or ਕੋਲਡਢਰੀਨਕ (colddrink)
+bicycle|ਸਾਈਕਲ
+big/large|ਵੱਡੇ
+bill (n)|ਬਿੱਲ or ਨੋਟ
+billion|ਅਰਬ
+bird|ਪੰਛੀ
 black
 blind (adj)
 blood
