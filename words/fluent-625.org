@@ -89,77 +89,77 @@ church,ਚਰਚ ਦੇ
 circle (n),ਚੱਕਰ
 city,ਸ਼ਹਿਰ ਦੀ
 clay,ਮਿੱਟਾ
-clean (adj)
-clean (v)
-clock
-close (v)
-clothing
-club (location)
-coat (n)
-coffee
-cold
-color (n)
-computer
-consonant
-contract (n)
-cook (v)
-cool (adj)
-copper
-corn
-corner (n)
-count (v)
-country (ex: USA or Spain)
-court
-cow
-crowd (n)
-cry (v)
-cup
-curved
-cut (v)
-dance (v)
-dark
-date (ex: May 7)
-daughter
-day
-dead
-deaf
-death
-December
-deep
-diamond
-die (v)
-dig (v)
-dinner
-direction
-dirty
-disease
-doctor
-dog,ਕੁੱਤਾ
-dollar
-door
-dot
-down
-draw (v)
+clean (adj),ਸਾਫ਼
+clean (v),ਸਾਫ਼ ਕਰਨ ਲਈ
+clock (n),ਘੜੀ
+close (v),ਬੰਦ ਕਰਨਾ
+clothing (n),ਪੁਸ਼ਾਕ
+club (location),
+coat (n),ਕੋਟ
+coffee (n),ਕਾਫੀ
+cold (a),ਠੰਡੇ
+color (n),ਰੰਗ
+computer (n),ਕੰਪਿਊਟਰ
+consonant (n),ਵਿਅੰਜਨ
+contract (n),ਇਕਰਾਰਨਾਮਾ
+cook (v),ਪਕਾਉਣ
+#cool (adj),ਠੰਡਾ    # same as cold
+copper (n),ਤਾਂਬਾ
+corn (n),ਮਕਈ
+corner (n),ਨੁੱਕਰ
+count (v),ਗਿਣਨ ਲਈ
+country (n),ਦੇਸ਼
+court (n),ਅਦਾਲਤ
+cow (n),ਗਊ
+crowd (n),ਭੀੜ
+cry (v),ਰੋਣਾ
+cup (n),ਕੱਪ
+curved (a),ਵਕਰ
+cut (v),ਕੱਟਣਾ
+dance (v),ਨੱਚਣਾ
+dark (a),ਹਨੇਰ
+date (n),ਤਾਰੀਖ  # (ex: May 7)
+daughter (n),ਧੀ
+day (n),ਦਿਨ
+dead (a),ਮਰੇ
+deaf (a),ਬੋਲ਼ੇ
+death (n),ਮੌਤ
+December,ਦਸੰਬਰ
+deep (a),ਡੂੰਘੇ
+diamond (n),ਹੀਰਾ
+die (v),ਮਰਨਾ
+dig (v),ਪੁੱਟਣਾ
+dinner (n),ਰਾਤ ਦੀ ਰੋਟੀ
+direction (n),ਦਿਸ਼ਾ
+dirty (a),ਗੰਦੇ
+disease (n),ਬਿਮਾਰੀ
+doctor (n),ਡਾਕਟਰ
+dog (n),ਕੁੱਤਾ
+dollar (n),ਡਾਲਰ
+door (n),ਦਰਵਾਜ਼ਾ
+dot (n),ਬਿੰਦੀ
+down (a),ਥੱਲੇ
+draw (v),ਪਹਿਰਾਵੇ
 dream (n),ਸੁਪਨੇ
-dress (n)
+dress (v),ਕੱਪੜੇ ਪਾ ਲਉ   # to get dressed
 drink (v),ਪਿਣ ਨੂੰ
-drive (v)
-drug (n)
-dry
-dust
-ear
-Earth
-east
+drive (v),ਚਲਾਨਾ
+drug (n),ਦਵਾਈ
+dry (a),ਸੁੱਕੀ
+dust (n),ਧੂੜ
+ear (n),ਕੰਨ
+Earth (n),ਧਰਤੀ
+east (n),ਪੂਰਬ
 eat (v),ਖਾਣ ਦੀ
-edge
-egg
+edge (n),ਕਿਨਾਰੇ
+egg (n),ਅੰਡੇ
 eight,ਅੱਠ
 eighteen,ਅਠਾਰਾ
-eighty
-election
-electronics
-eleven
-energy
+eighty (n),ਅੱਸੀ
+election (n),ਚੋਣ
+electronics,??
+eleven (n),ਗਿਆਰਾਂ
+energy (n),ਊਰਜਾ
 engine
 evening
 exercise (n)
@@ -194,7 +194,7 @@ floor
 flower,ਫੁੱਲ
 fly (v)
 follow (v)
-food
+food (n),ਭੋਜਨ
 foot (body part)
 foot (measurement)
 forest
@@ -361,7 +361,7 @@ office
 oil
 old (/new)
 old (/young)
-one
+one,ਇਕ
 open (v)
 orange (color)
 orange (food)
@@ -431,6 +431,7 @@ sand
 Saturday
 school
 science
+scream (v),ਚੀਕਣ
 screen
 sea
 season
