@@ -139,7 +139,7 @@ dollar (n),ਡਾਲਰ
 door (n),ਦਰਵਾਜ਼ਾ
 dot (n),ਬਿੰਦੀ
 down (a),ਥੱਲੇ
-draw (v),ਪਹਿਰਾਵੇ
+draw (v),ਸਕੈਚ ਕਰਨ ਲਈ  # to make a sketch
 dream (n),ਸੁਪਨੇ
 dress (v),ਕੱਪੜੇ ਪਾ ਲਉ   # to get dressed
 drink (v),ਪਿਣ ਨੂੰ
@@ -160,133 +160,133 @@ election (n),ਚੋਣ
 electronics,??
 eleven (n),ਗਿਆਰਾਂ
 energy (n),ਊਰਜਾ
-engine
-evening
-exercise (n)
-expensive
-explode (v)
-eye (n)
-face (n)
-fall (season)
-fall (v)
-family
-famous
-fan (electric)
-fan (sport)
-farm (n)
+engine (n),ਇੰਜਨ
+evening (n),ਸ਼ਾਮ
+exercise (n),ਕਸਰਤ
+expensive (a),ਮਹਿੰਗਾ
+explode (v),ਵਿਸਫੋਟ
+eye (n),ਅੱਖ
+face (n),ਚਿਹਰਾ
+fall (n),ਪਤਝੜ   # autumn
+fall (v),ਡਿਗਣਾ
+family (n),ਪਰਿਵਾਰ
+famous (a),ਮਸ਼ਹੂਰ
+fan (n),ਬਿਜਲੀ ਪੱਖੀ   # electric fan
+fan (n),ਪੱਖਾ # ?? of a sport
+farm (n),ਖੇਤ
 fast,ਤੇਜ਼
 father,ਪਿਤਾ ਨੇ
-February
-feed (v)
-female
-fifteen
-fifth (5th)
-fifty
-fight (v)
-find (v)
-finger
+February,ਫਰਵਰੀ
+feed (v),ਖਿਲਾਉਣਾ
+female (a),ਮਾਦਾ
+fifteen (n),ਪੰਦਰਾਂ
+fifth (a),ਪੰਜਵਾਂ
+fifty (a),ਪੰਜਾਹ
+fight (v),ਲੜਨਾ
+find (v),ਲੱਭਣਾ
+finger(n),ਉਂਗਲ
 fire (n),ਅੱਗ
-first (1st)
-fish (n)
-five
-flat (adj)
-floor
+first (a),ਪਹਿਲਾ
+fish (n),ਮੱਛੀ
+five (a),ਪੰਜ
+# flat (adj), # ???
+floor (n),ਮੰਜ਼ਲ
 flower,ਫੁੱਲ
-fly (v)
-follow (v)
+fly (v),ਉਡਾਣ
+follow (v),ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ
 food (n),ਭੋਜਨ
-foot (body part)
-foot (measurement)
-forest
-fork
-forty
-four
-fourteen
-fourth (4th)
-Friday
-friend
-front
-game
-garden
-gasoline
-gift
-girl
-glass
-go (v)
-God
-gold
-good
-grandfather
-grandmother
-grass
-gray
-green
-ground
-grow (v)
-gun
-hair
-half
-hand
-hang (v)
-happy
-hard
-hat
-he
-head
-healthy
-hear (a sound)
-heart
-heat (n)
-heaven
-heavy
-hell
-high
-hill
-hole
-horse
-hospital
-hot
-hotel
-hour
-house
-human
-hundred
-husband
-I
-ice
-image
-inch
-injury
-inside
-instrument (musical)
-island
-it
-January
-job
-juice
-July
-jump (v)
-June
-key
-kill (v)
-kilogram
-king
-kiss (v)
-kitchen
-knee
-knife
-lake
-lamp
-laptop
-laugh (v)
-lawyer
-leaf
-learn (v)
-left (direction)
-leg
-lemon
-letter
-library
+foot (n),ਪੈਰ    # (body part)
+# foot (measurement)
+forest (n),ਜੰਗਲ
+fork (n),ਕਾਂਟਾ
+forty (a),ਚਾਲੀ
+four (a),ਚਾਰ
+fourteen, ਚੌਦਾਂ
+fourth,ਚੌਥੇ
+Friday,ਸ਼ੁੱਕਰਵਾਰ
+friend (n),ਦੋਸਤ
+front (n),ਅੱਗੇ
+game (n),ਗੇਮ
+garden,ਬਾਗ਼
+gasoline (n),ਪੈਟਰੋਲ
+gift (n),ਤੋਹਫ਼ੇ
+girl (n),ਕੁੜੀ
+glass (n),ਗਲਾਸ
+go (v),ਜਾਣਾ
+God,ਰੱਬ
+gold (n),ਸੋਨਾ
+good (a),ਚੰਗਾ
+grandfather,ਦਾਦਾ
+grandmother,ਦਾਦੀ
+grass (n),ਘਾਹ
+gray (a),ਸਲੇਟ
+green(a),ਹਰਾ
+ground(n),ਜ਼ਮੀਨ
+grow (v),ਵਧਣਾ
+gun (n),ਬੰਦੂਕ
+hair (n),ਵਾਲ
+half (n),ਅੱਧੇ
+hand (n),ਹੱਥ
+hang (v),ਲਟਕਣ ਲਈ
+happy (a),ਖੁਸ਼
+hard ਔਖਾ  # difficult
+hat (n),ਟੋਪੀ
+he,ਉਹ
+head (n),ਸਿਰ
+healthy (a),ਸਿਹਤਮੰਦ
+hear (v),ਸੁਣਨ ਲਈ
+heart (n),ਦਿਲ
+heat (n),ਗਰਮੀ
+heaven (n),ਸਵਰਗ
+heavy (a),ਭਾਰਾ
+hell (n),ਨਰਕ
+high (a),ਉੱਚ
+hill (n),ਪਹਾੜੀ
+hole (n),ਮੋਰੀ
+horse (n),ਘੋੜਾ
+hospital (n),ਹਸਪਤਾਲ
+hot (n),ਗਰਮ
+hotel (n),ਹੋਟਲ
+hour (n),ਘੰਟਾ
+house (n),ਘਰ
+human (n),ਮਨੁੱਖ
+hundred (n),ਸੌ
+husband (n),ਪਤੀ
+I (n),ਮੈਂ
+ice (n),ਬਰਫ਼
+image (n),ਰੂਪ    # ?? "form"
+inch (n),ਇੰਚ
+injury (n),ਸੱਟ
+inside (a),ਅੰਦਰ
+instrument (n),ਸੰਗੀਤ ਸਾਧਨ  # (musical)
+island (n),ਟਾਪੂ
+it (p),ਇਹ
+January (n),ਜਨਵਰੀ
+job (n),ਨੌਕਰੀ
+juice (n),ਜੂਸ
+July (n),ਜੁਲਾਈ
+jump (v),ਛਾਲ ਮਾਰਕੇ # jump over
+June (n),ਜੂਨ
+key (n),ਚਾਬੀ
+kill (v),ਮਾਰਨ ਲਈ
+kilogram (n),ਕਿਲੋਗ੍ਰਾਮ
+king (n),ਰਾਜਾ
+kiss (v),ਚੁੱਮਣੀ
+kitchen (n),ਰਸੋਈ
+knee (n),ਗੋਡਾ
+knife (n),ਚਾਕੂ
+lake (n),ਝੀਲ
+lamp (n),ਲੈਂਪ
+laptop (n),ਲੈਪਟਾਪ
+laugh (v),ਹੱਸਣਾ
+lawyer (n),ਵਕੀਲ
+leaf (n),ਪੱਤਾ
+learn (v),ਸਿੱਖਣਾ
+left,ਖੱਬੇ # (direction)
+leg (n),ਲੱਤ
+lemon (n),ਨਿੰਬੂ
+letter (n),ਚਿੱਠੀ
+library (n),ਪੁਸਤਕਾਲਾ
 lie down (v)
 lift (v)
 light (/dark)
@@ -334,7 +334,7 @@ mouse
 mouth
 movie
 murder (n)
-music
+music (n),ਸੰਗੀਤ
 narrow
 nature
 neck
@@ -476,7 +476,7 @@ slow
 small/little
 smell (v)
 smile (v)
-snow (n)
+snow (n),ਹਿਮ
 soap
 soft
 soil/earth
@@ -489,7 +489,7 @@ south
 space (outer space)
 speak/say (v)
 spoon
-sport
+sport (n),ਖੇਡ
 spring (season)
 square
 stain
@@ -594,6 +594,7 @@ wing
 winter
 woman
 wood
+word (n),ਸ਼ਬਦ
 work (v)
 world
 write (v)
