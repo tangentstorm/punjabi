@@ -37,6 +37,7 @@ bed,ਮੰਜੇ
 bedroom,ਬੈੱਡਰੂਮ   or ਸੌਨ ਵਾਲਾ ਕਮਰਾ
 beef,ਬੀਫ or ਮਾਜ ਦਾ ਮੀਟ
 beer,ਬੀਅਰ
+below,ਹੇਠਾਂ 
 bend (v),ਮੋੜ
 beverage,ਪੀਨਾ or ਕੋਲਡਢਰੀਨਕ (colddrink)
 bicycle,ਸਾਈਕਲ
@@ -175,7 +176,7 @@ fan (n),ਬਿਜਲੀ ਪੱਖੀ   # electric fan
 fan (n),ਪੱਖਾ # ?? of a sport
 farm (n),ਖੇਤ
 fast,ਤੇਜ਼
-father,ਪਿਤਾ ਨੇ
+father,ਪਿਉ ??
 February,ਫਰਵਰੀ
 feed (v),ਖਿਲਾਉਣਾ
 female (a),ਮਾਦਾ
@@ -287,166 +288,167 @@ leg (n),ਲੱਤ
 lemon (n),ਨਿੰਬੂ
 letter (n),ਚਿੱਠੀ
 library (n),ਪੁਸਤਕਾਲਾ
-lie down (v)
-lift (v)
-light (/dark)
-light (/heavy)
-light (n)
-lip
-listen (to music;v)
-location
-lock (n)
-long
-loose
-lose (v)
-loud
-love (v)
-low
-lunch
-magazine
-male
-man
-manager
-map
-March
-market
-marriage
-marry (v)
-material
-May
-mean (/nice)
-medicine
-melt (v)
-metal
-meter
-milk
-million
-minute
-mix/stir (v)
-Monday
-money
-month
-moon
-morning
-mother
-mountain
-mouse
-mouth
-movie
-murder (n)
+lie down (v),ਨਿਰਧਾਰਤ ਕਰਣਾ
+lift (v),ਉਤਰਨਾ
+light (/dark),ਹਲਕਾ
+light (/heavy),ਹਲਕਾ
+light (n),ਜੋਤ
+lip (n),ਹੋਠ
+listen (to music;v),ਸੁਣੋ
+location (place),ਸਥਾਨ
+lock (n),ਲਾਕ  ???
+long (a),ਲੰਬੇ
+loose (a),ਢਿੱਲੀ
+lose (v),ਗੁਆਚਣਾ
+loud (a),ਉੱਚੀ
+love (v),ਪਿਆਰ ਕਰਨਾ
+# low (a),ਘੱਟ  ??
+lunch (n),ਦੁਪਹਿਰ ਦਾ ਖਾਣਾ
+# magazine
+male (a),ਪੁਲਿੰਗ
+man (n),ਆਦਮੀ
+manager (n),ਪ੍ਰਬੰਧਕ
+map (n),ਨਕਸ਼ਾ
+March (n),ਮਾਰਚ
+market (n),ਮੰਡੀ
+marriage (n),ਵਿਆਹ
+marry (v),ਵਿਆਹ ਕਰਵਾਓ
+material (n),ਸਮੱਗਰੀ
+May (n),ਮਈ
+mean (/nice),ਅਸਲ
+medicine (n),ਦਵਾਈ
+melt (v),ਪਿਘਲਣ
+metal (n),ਧਾਤੂ
+meter (n),ਮੀਟਰ
+milk (n),ਦੁੱਧ
+million (n),ਦਸ ਲੱਖ
+minute (n),ਮਿੰਟ
+mix/stir (v),ਰਲਾਉਣ
+Monday (n),ਸੋਮਵਾਰ
+money (n),ਪੈਸਾ
+month (n),ਮਹੀਨੇ
+moon (n),ਚੰਦ
+morning (n),ਸਵੇਰੇ
+mother (n),ਮਾਤਾ
+mountain (n),ਪਹਾੜ
+mouse (n),ਚੂਹਾ
+mouth (n),ਮੂੰਹ
+movie (n),ਫਿਲਮ
+murder (n),ਕਤਲ
 music (n),ਸੰਗੀਤ
-narrow
-nature
-neck
-needle
-neighbor
-network
-new
-newspaper
-nice
-night
-nine
-nineteen
-ninety
-no
-north
-nose
-note (on paper)
-November
-nuclear
-number
-ocean
-October
-office
-oil
-old (/new)
-old (/young)
+narrow (a),ਸੌੜਾ
+nature (n),ਕੁਦਰਤ
+neck (n),ਗਰਦਨ
+needle (n),ਸੂਈ
+neighbor (n),ਗੁਆਂਢੀ
+network (n),ਨੈਟਵਰਕ
+new (a),ਨਵਾਂ
+newspaper (n),ਅਖ਼ਬਾਰ
+nice (a),ਚੰਗੇ
+night (n),ਰਾਤ
+nine,ਨੌਂ
+nineteen,ਉੱਨੀ
+ninety,ਨੱਬੇ
+no,ਨਹੀਂ
+north,ਉੱਤਰ
+nose (n),ਨੱਕ
+note (on paper),ਨੋਟ
+November,ਨਵੰਬਰ
+nuclear (a),ਨਿਊਕਲੀ
+number (n),ਗਿਣਤੀ
+ocean (n),ਸਮੁੰਦਰ
+October (n),ਅਕਤੂਬਰ
+office (n),ਦਫਤਰ
+oil (n),ਤੇਲ
+old (/new)  ਪੁਰਾਣਾ  ??
+old (/young) ਬਿਰਧ  ??
 one,ਇਕ
-open (v)
-orange (color)
-orange (food)
-outside
-page
-pain
-paint
-pants
-paper
-parent
-park (location)
-pass (v)
-patient (n)
-pattern
-pay (v)
-peace
-pen
-pencil
-person
-photograph
-piece
-pig
-pink
-plane
-plant (n)
-plastic
-plate
-play (v)
-player
-pocket
-poison (n)
-police
-pool
-poor
-pork
-pound (weight)
-pray (v)
-president
-price
-priest
-prison
-program (computer)
-pull (v)
-push (v)
-queen
-quiet
-race (ethnicity)
-race (sport)
-radio
-rain (n)
-red
-religion
-reporter
-restaurant
-rice
-rich
-right (direction)
-ring
-river
-roof
-room (in a house)
-root
-run (v)
-sad
-salt
-sand
-Saturday
-school
-science
+open (v),ਖੋਲ੍ਹਣ  ??
+orange (color),ਸੰਤਰਾ ਰੰਗ
+orange (food),ਸੰਤਰਾ
+outside (a),ਬਾਹਰ
+page (n),ਪੰਨਾ
+pain (n),ਦਰਦ
+paint (n),ਪੇਂਟ
+pants (n),ਪੈਂਟ
+paper (n),ਪੇਪਰ ?
+parent (n),ਮਾਪੇ  ??
+park (location) (n),ਪਾਰਕ
+pass (v),ਪਾਸ ਕਰਨਾ
+patient (n),ਮਰੀਜ਼
+pattern (n),ਨਮੂਨਾ
+pay (v), ਵੇਤਨ ?
+peace (n),ਸ਼ਾਂਤੀ
+pen (n),ਕਲਮ
+pencil (n),ਪੈਨਸਿਲ
+person (n),ਵਿਅਕਤੀ
+photograph (n),ਫੋਟੋ
+piece (n),ਟੁਕੜਾ
+pig (n),ਸੂਰ
+pink (a),ਗੁਲਾਬੀ
+plane (n),ਜਹਾਜ਼
+planet (n), ਗ੍ਰਹਿ
+plant (n),ਪੌਦਾ
+plastic (n),ਪਲਾਸਟਿਕ ?
+plate (n),ਪਲੇਟ
+play (v),ਖੇਡਣਾ
+player (n),ਖਿਡਾਰੀ
+pocket (n),ਜੇਬ
+poison (n),ਜ਼ਹਿਰ
+police (n),ਪੁਲਿਸ
+pool (n),ਸਵਿਮਿੰਗ ਪੂਲ
+poor (n),ਗਰੀਬ
+pork (n),ਸੂਰ ਦਾ ਮਾਸ
+pound (weight),ਪਾਉਂਡ
+pray (v),ਅਰਦਾਸ ਕਰੋ
+president (n),ਰਾਸ਼ਟਰਪਤੀ
+price (n),ਕੀਮਤ
+priest (n),ਪਾਦਰੀ
+prison (n),ਜੇਲ੍ਹ
+program (computer),ਪ੍ਰੋਗ੍ਰਾਮ ?
+pull (v),ਖਿੱਚਣ
+push (v),ਧੱਕਾ
+queen (n),ਰਾਣੀ
+quiet (a),ਸ਼ਾਂਤ
+# race (ethnicity) ??
+race (sport),ਦੌੜ
+radio (n),ਰੇਡੀਓ
+rain (n),ਵਰਖਾ
+red,ਲਾਲ
+religion (n),ਧਰਮ
+reporter (n),ਰਿਪੋਰਟਰ
+restaurant (n),ਭੋਜਨਾਲਾ
+rice (n),ਚੌਲ
+rich (a),ਅਮੀਰ
+right (direction),ਸੱਜੇ
+ring (n),ਮੁੰਦਰੀ
+river (n),ਨਦੀ
+roof (n),ਛੱਤ
+room (in a house) (n), ਕਮਰੇ
+root (n),ਜੜ੍ਹ ?
+run (v),ਚੱਲ ਰਿਹਾ | ਦੌੜਨਾ  ??
+sad (a),ਉਦਾਸ
+salt (n),ਲੂਣ
+sand (n),ਰੇਤ
+Saturday (n),ਸ਼ਨੀਵਾਰ
+school (n),ਸਕੂਲ
+science (n),ਵਿਗਿਆਨ
 scream (v),ਚੀਕਣ
-screen
-sea
-season
-second (2nd)
-second (time)
-secretary
-see (a bird)
-seed
-sell (v)
-September
-seven
-seventeen
-seventy
-sex (gender)
-sex (the act)
+screen (n), ਪਰਦਾ
+# sea (n),ਸਮੁੰਦਰ   / same word as ocean
+season (n), ਮੌਸਮ
+second (2nd),ਦੂਜਾ
+second (time),ਸਕਿੰਟ
+secretary (n),ਸਕੱਤਰ
+see (a bird), ਦੇਖਣ ?
+seed (n),ਬੀਜ
+sell (v),vechna?
+September,
+seven, satt?
+seventeen, satur?
+seventy, ?
+sex (gender), ?
+sex (the act), ?
 shake (v)
 shallow
 she
@@ -465,7 +467,7 @@ silver
 sing (v)
 sister
 sit (v)
-six
+six, che?
 sixteen
 sixty
 skin
@@ -478,7 +480,7 @@ smell (v)
 smile (v)
 snow (n),ਹਿਮ
 soap
-soft
+soft (a),ਕੋਮਲ
 soil/earth
 soldier
 son
@@ -527,7 +529,7 @@ they
 thick
 thin
 think (v)
-third (3rd)
+third (3rd),ਤੀਜਾ
 thirteen
 thirty
 thousand
@@ -535,7 +537,7 @@ three
 throw (v)
 Thursday
 ticket (train)
-tight
+tight (a),ਤੰਗ
 time (n)
 tire (of a car)
 toe
