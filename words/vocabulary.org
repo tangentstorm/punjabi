@@ -424,6 +424,7 @@ north,ਉੱਤਰ
 nose (n),ਨੱਕ
 not, ਨਹੀਂ nahīṇ :lpssme:
 note (on paper),ਨੋਟ
+noun (n), ਨਾਮ  :mjw:
 november,ਨਵੰਬਰ ^^
 nuclear (a),ਨਿਊਕਲੀ
 number (n),ਗਿਣਤੀ
@@ -530,168 +531,168 @@ second [time],ਸਕਿੰਟ
 secretary (n),ਸਕੱਤਰ
 see (v), ਦੇਖਣਾ dekhṇā :ff625:lpssme:
 seed (n),ਬੀਜ
-sell (v),vechna?
-september, ^^
+sell (v),ਵੇਚਣਾ
+september (n), ਸਤੰਬਰ ^^
 seven (num), ਸੱਤ satt :ff625:lpssme:
-seventeen (num), satur?
-seventy (num), ?
-sex (n) [gender], ?
-sex (n) [the act], ?
-shake (v)
-shallow
-she
-ship
-shirt
+seventeen (num), ਸਤਾਰਾਂ
+seventy (num), ਸੱਤਰ
+sex (n) [gender], ਲਿੰਗ
+sex (n) [the act], ਸੈਕਸ  ??
+shake (v) ਹਿਲਾਓ  ??gt
+shallow (a),ਖੋਖਲਾ ??gt
+she (pn), ਉਹ
+ship (n),ਜਹਾਜ਼
+shirt (n),ਕਮੀਜ਼
 shoes (n), ਜੁੱਤੀਆਂ juttīāṇ :ff625:lpssme:
-shoot (a gun)
-shop, ਦੁਕਾਨ dukān :lpssme:
-short [vs long]
-short [vs tall]
+shoot (v) [a gun], ਸ਼ੂਟ ਕਰਨ
+shop (n), ਦੁਕਾਨ dukān :lpssme:
+short (a),[vs long] ਛੋਟਾ  ??
+short (a),[vs tall] ਛੋਟਾ ??
 should/ought, ਚਾਹੀਦਾ cāhīdā :lpssme:
-shoulder
+shoulder (n), ਮੋਢੇ
 show (v), ਿਦਖਾਉਣਾ dikhāuṇā :lpssme:
-sick
-side
-sign (n)
-sign (v)
+sick (a),ਬਿਮਾਰ
+side (n),ਪਾਸੇ
+sign (n),ਨਿਸ਼ਾਨੀ ??
+sign (v),ਸਾਈਨ ਕਰਨ ??
 silence, ਚੁੱਪ cupp :lpssme:
-silver
+silver (n), ਚਾਂਦੀ
 sing (v), ਗਾਉਣਾ gāuṇā :ff625:lpssme:
-sister
+sister (n),ਭੈਣ
 sit (v),  ਬੈਠਣਾ baiṭhṇā :ff625:lpssme:
 six (num), ਛੇ che :ff625:lpssme:
-sixteen (num)
-sixty (num)
-skin
-skirt
-sky
+sixteen (num), ਸੋਲ੍ਹਾਂ
+sixty (num),ਸੱਠ
+skin (n),ਚਮੜੀ
+skirt (n),ਸਕਰਟ
+sky (n),ਅਸਮਾਨ
 sleep (v), ਸੌਣਾ sauṇā :ff625:lpssme:
-slow
-small/little
-small/short, ਛੋਟਾ choṭā :lpssme:
-smell (v)
-smile (v)
+slow (a),ਹੌਲੀ
+small/short, ਛੋਟਾ choṭā :ff625:lpssme:
+smell (v),ਗੰਧ ਕਰਨ # ** but is this to smell something or to smell like something?
+smile (v),ਮੁਸਕਾਊਣਾ
 snow/ice (n), ਬਰਫ਼ barf :lpssme:  # ** ਹਿਮ also means snow?
 so that, ਤਾਂਿਕ tāṇki :lpssme:
-soap
+soap (n),ਸਾਬਣ
 soft (a),ਕੋਮਲ
-soil/earth
-soldier
-son
+soil/earth (n),ਮਿੱਟੀ # ** same as earth
+soldier (n),ਸਿਪਾਹੀ ??
+son (n), ਪੁੱਤਰ
 song(s) (n), ਗੀਤ gīt :lpssme:
-sound
-soup
-south
-space (outer space)
-speak/say (v)
+sound (n),ਆਵਾਜ਼
+soup (n),ਸੂਪ
+south (a),ਦੱਖਣ
+space (n)[outer space], ਸਪੇਸ
+speak/say (v),ਕਹਿਣ ??
 speak/talk (v), ਬੋਲਣਾ bolṇā :lpssme:
-spoon
+spoon (n),ਚਮਚਾ
 sport (n),ਖੇਡ
-spring (season)
-square
-stain
-stand (v)
-star
-stone
-stop (v)
-store/shop
+spring [season] (n),ਬਸੰਤ
+square (n),ਵਰਗ
+stain (n),ਦਾਗ਼  # ** ਵੱਟਾ  ??
+stand (v),ਖੜੇ ਹੋਣਾ
+star (n), ਤਾਰਾ
+stone (n),ਪੱਥਰ
+stop (v),ਰੋਕਣਾ
+store/shop (n),ਦੁਕਾਨ
 stories, ਕਹਾਣੀਆਂ kahāṇīāṇ :lpssme:
 story, ਕਹਾਣੀ kahāṇī :lpssme:
-straight
-street/road
-strong
-student
-sugar
-suit (n)
-summer
-sun
-sunday ^^
-sweat (n)
-swim (v)
-t-shirt ^^
-table
+straight [vs crooked], ਸਿੱਧਾ ??
+street/road (n),ਸੜਕ
+strong (a),ਮਜ਼ਬੂਤ
+student (n),ਵਿਦਿਆਰਥੀ
+sugar (n),ਖੰਡ
+suit (n),ਸੂਟ ??
+summer (n),ਗਰਮੀ
+sun (n),ਸੂਰਜ
+sunday (n),ਸੋਮਵਾਰ  ^^
+sweat (n),ਪਸੀਨਾ
+swim (v),ਤੈਰਨ
+t-shirt,ਟੀ-ਸ਼ਰਟ ^^
+table (n),ਮੇਜ਼
 take/receive (v), ਲੈਣਾ laiṇā :lpssme:
-tall
-taste (v)
-tea
+tall (a),ਲੰਬਾਈ ??
+taste (v) ਚੱਖਣਾ
+tea (n), ਚਾਹ
 teach (v), ਿਸਖਾਉਣਾ sikhāuṇā :lpssme:
-teacher
-team
-tear (drop)
-technology
-telephone
-television
+teacher (n),ਅਧਿਆਪਕ
+team (n),ਟੀਮ
+tear (n) [teardrop], ਅੱਥਰੂ
+technology (n),ਤਕਨਾਲੋਜੀ ??
+telephone (n),ਟੈਲੀਫੋਨ ??
+television (n), ਟੈਲੀਵਿਜ਼ਨ
 tell (v), ਦੱਸਣਾ dassaṇā :lpssme:
-temperature
+temperature (n), ਤਾਪਮਾਨ
 ten (num), ਦਸ das :ff625:lpssme:
 that, ਿਕ ki :lpssme:
-theater
+theater (n),ਥੀਏਟਰ
 their, ਉਹਨਾਂ ਦਾ uhnāṇ dā :lpssme:
 then, ਤਾਂ tāṇ :lpssme:
-they
-thick
-thin
+they (pn) ਉਹ  **
+thick (a),ਮੋਟਾ # ** same as fat
+thin (a). ਪਤਲੇ
 think (v), ਸੋਚਣਾ socṇā :ff625:lpssme:
 third (3rd),ਤੀਜਾ
-thirteen (num)
-thirty (num)
-thousand (num)
+thirteen (num), ਤੇਰਾਂ
+thirty (num),ਤੀਹ
+thousand (num),ਹਜ਼ਾਰ
 three (num), ਿਤੰਨ tiṇn :ff625:lpssme:
-throw (v)
-thursday ^^
+throw (v),ਸੁੱਟਣਾ
+thursday (n), ਵੀਰਵਾਰ ^^
 ticket (train)
 tight (a),ਤੰਗ
-time (n)
+time (n),ਸਮਾਂ
 tiny/little, ਥੋੜਹਾ thor̥hā :lpssme:
-tire (of a car)
+tire [of a car] (n), ਟਾਇਰ
 to me, ਮੈਨੂੰ mainūṇ :lpssme:
 to us, ਸਾਨੂੰ sānūṇ :lpssme:
 to you, ਤੁਹਾਨੂੰ tuhānūṇ :lpssme:
 to, ਨੂੰ nūṇ :lpssme:
-toe
-tongue
-tool
-tooth
-top
-touch (v)
-town
-train (n)
-train station
-transportation
-tree
-truck
+toe (n) ਅੰਗੂਠੇ
+tongue (n),ਜੀਭ
+tool (n),ਸੰਦ
+tooth (n),ਦੰਦ
+top (n), ਸਿਖਰ
+touch (v),ਛੋਹਣਾ
+town (n),ਸ਼ਹਿਰ
+train (n),ਟ੍ਰੇਨ
+train station (n),ਰੇਲਵੇ ਸਟੇਸ਼ਨ
+transportation (n),ਆਵਾਜਾਈ
+tree (n),ਰੁੱਖ
+truck (n),ਟਰੱਕ
 try (v), ਕੋਿਸ਼ਸ਼ ਕਰਨੀ koshish karnī :lpssme:
-tuesday ^^
-turn (v)
+tuesday (n), ਮੰਗਲਵਾਰ^^
+turn (v),ਮੁੜਣਾ
 twelve (num), ਬਾਰਹਾਂ bārhāṇ :lpssme:
-twenty (num)
+twenty (num),ਵੀਹ
 # twenty-one (etc) **
 two (num), ਦੋ do :ff625:lpssme:
-ugly
+ugly (a),ਬਦਸੂਰਤ
 understand (v), ਸਮਝਣਾ samajhṇā :lpssme:
-university
+university (n),ਯੂਨੀਵਰਸਿਟੀ ??
 until/up to, ਤਕ tak :lpssme:
-up
+up (n),ਉੱਤੇ  # ?? go up -> ute jao
 use (v), ਵਰਤਣਾ waratṇā :lpssme:
-valley
-verb
+valley (n),ਵਾਦੀ
+verb (n), ਕਿਰਿਆ
 very (Invariable), ਬਹੁਤ bahut :lpssme:
-victim
-voice (n)
-vowel
-waiter
-wake up (v)
+victim (n),ਪੀੜਤ  ???
+voice (n),ਆਵਾਜ਼
+vowel (n),ਸਵਰ
+waiter (n),ਬਹਿਰਾ
+wake up (v),ਜਾਗਣਾ
 walk (v), ਤੁਰਨਾ turṇā :ff625:lpssme:
-wall
+wall (n),ਕੰਧ
 want (v), ਚਾਹੁਣਾ cāhuṇā :lpssme:
-war
-warm (adj)
-wash (v)
-watch (v; ex: watch tv)
+war (n),ਜੰਗ
+warm (adj),ਗਰਮ
+wash (v),ਧੋਣੇ
+watch (v) [ex: watch tv],ਦੇਖ ਰਹੇ ਹੋ  # ?? google: watching tv -> ਟੀਵੀ ਦੇਖਣਾ
 water, ਪਾਣੀ pāṇī :ff625:lpssme:
-wave (ocean)
+wave [ocean],ਲਹਿਰ
+wave (v),ਅਲਵਿਦਾ ਕਰਨ # ??
 we, ਅਸੀਂāsīṇ :ff625:lpssme:
-weak
+weak (a),ਕਮਜ਼ੋਰ
 wear (v)
 wedding
 wednesday ^^
@@ -702,11 +703,11 @@ wet (adj)
 what, ਕੀ kī :lpssme:
 when, ਕਦੋਂ kadoṇ :lpssme:
 when, ਜਦੋਂjadoṇ :lpssme:
-where, ਿਕਥੇ kithe :lpssme:
-which, ਿਕਹੜਾ kihr̥ā :lpssme:
-white
+where, ਕਿਥੇ kithe :lpssme:
+which, ਕਿਹੜਾ kihr̥ā :lpssme:
+white (a), ਚਿੱਟਾ
 who, ਕੌਣ kauṇ :lpssme:
-why, ਿਕਉਂ kiuṇ :lpssme:
+why, ਕਿਉਂ kiuṇ :lpssme:
 wide
 wife
 win (v)
