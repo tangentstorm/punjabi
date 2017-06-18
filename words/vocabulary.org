@@ -1,5 +1,6 @@
 # punjabi wordlist
 # -------------------------------------------------------
+# mostly from Fluent Forever's list of 625 most common concrete nouns/verbs
 #  - (I added a few of my own words here as I went along)
 # lpssme: learn punjabi: sentence structure made easy
 # -------------------------------------------------------
@@ -12,7 +13,7 @@ achieve/put on, ਪਾਉਣਾ pāuṇā :lpssme:
 actor,ਅਭਿਨੇਤਾ
 adjective,ਤੀਰਅੰਦਾਜ਼
 adult,ਬਾਲਗ
-afternoon,ਦੁਪਹਿਰ ਨੂੰ
+afternoon,ਦੁਪਹਿਰ
 air,ਹਵਾ
 airport,ਹਵਾਈ ਅੱਡੇ
 alive,ਜਿੰਦਾ
@@ -21,7 +22,7 @@ am/are, ਹਾਂ :lpssme:
 and, ਅਤੇ or ਤੇ āte or te :lpssme:
 animal,ਜਾਨਵਰ
 answer (v), ਜਵਾਬ ਦੇਣਾ  jawāb deṇā :lpssme:
-answer(s), ਜਵਾਬ :lpssme:
+answer(s) (n), ਜਵਾਬ :lpssme:
 apartment,ਮਕਾਨ
 apple,ਸੇਬ
 appreciate (v), ਕਦਰ ਕਰਨੀ  kadar karnī :lpssme:
@@ -33,7 +34,6 @@ army,ਫ਼ੌਜੀ
 art,ਕਲਾ
 artist,ਕਲਾਕਾਰ
 ask, ਪੁੱਛਣਾ puchchaṇā :lpssme:
-ask, ਪੁੱਛਣਾ puchchṇā :lpssme:
 attack (n),ਹਮਲਾ
 attack (v),ਹਮਲੇ **
 august,ਅਗਸਤ ^^
@@ -42,7 +42,7 @@ baby,ਬੱਚਾ
 back (body),? ਪੀਥ
 back (direction),ਵਾਪਸ
 bad, ਬੁਰਾ burā :lpssme:
-bad,ਮੰਦਾ
+bad,ਮੰਦਾ **
 bag (n),ਲਫਾਫਾ
 ball,ਬਾਲ or ਗੇੰਢ
 banana,ਕੇਲਾ
@@ -54,7 +54,7 @@ beach,ਬੀਚ or ਸਮੂਨਦਰ ਦੈ ਕੀਨਾਰੇ
 beard,ਦਾੜ੍ਹੀ
 beat (v),ਨਾਲ ਹਰਾਇਆ
 beautiful, ਸੋਹਣਾ sohṇā :lpssme:
-beautiful,ਸੁੰਦਰ
+beautiful,ਸੁੰਦਰ **
 because, ਿਕਉਂ ਿਕ kiuṇki :lpssme:
 become, ਬਣਨਾ baṇnā :lpssme:
 bed,ਮੰਜੇ
@@ -62,12 +62,11 @@ bedroom,ਬੈੱਡਰੂਮ   or ਸੌਨ ਵਾਲਾ ਕਮਰਾ
 beef,ਬੀਫ or ਮਾਜ ਦਾ ਮੀਟ
 beer,ਬੀਅਰ
 begin/start, ਸ਼ੁਰੂ ਕਰਨਾ shurū karna :lpssme:
-below,ਹੇਠਾਂ 
+below,ਹੇਠਾਂ
 bend (v),ਮੋੜ
 beverage,ਪੀਨਾ or ਕੋਲਡਢਰੀਨਕ (colddrink)
 bicycle,ਸਾਈਕਲ
-big, ਵੱਡਾ vaḍḍā :lpssme:
-big/large,ਵੱਡੇ
+big/large (a), ਵੱਡਾ vaḍḍā :ff625:lpssme:
 bill (n),ਬਿੱਲ or ਨੋਟ
 billion,ਅਰਬ
 bird,ਪੰਛੀ
@@ -78,48 +77,42 @@ blue,ਨੀਲਾ
 boat,ਕਿਸ਼ਤੀ
 body,ਸਰੀਰ
 bone,ਹੱਡੀ
-book, ਿਕਤਾਬ kitāb :lpssme:
-book,ਕਿਤਾਬ
-books, ਿਕਤਾਬਾਂ kitābāṇ :lpssme:
+book, ਕਿਤਾਬ kitāb :ff625:lpssme:
+books, ਕਿਤਾਬਾਂ kitābāṇ :lpssme:
 bottle,ਬੋਤਲ
 bottom,ਤਲ
 box (n),ਬਾਕਸ ਨੂੰ
 boy,ਮੁੰਡਾ
 brain,ਦਿਮਾਗ ਨੂੰ
-bread, ਰੋਟੀ roṭī :lpssme:
-bread,ਰੋਟੀ ਦਾ Rōṭī dā
+bread (n), ਰੋਟੀ roṭī :ff625:lpssme:
 break (v),ਬ੍ਰੇਕ
 breakfast,ਨਾਸ਼ਤਾ
 bridge (n),ਪੁਲ
-bring, ਿਲਆਉਣਾ liāuṇā :lpssme:
+bring, ਲਿਆਉਣਾ liāuṇā :lpssme:
 brother,ਭਰਾ
 brown,ਭੂਰਾ
-build (v),ਨੂੰ ਬਾਣਾਉਣ
-building,ਇਮਾਰਤ ਨੂੰ
-burn (v),ਨੂੰ ਸਾੜ
+build (v),ਬਾਣਾਉਣ
+building,ਇਮਾਰਤ
+burn (v),ਸਾੜ
 bus,ਬੱਸ
 but, ਪਰ par :lpssme:
-buy (v),ਖਰੀਦਣ
-buy, ਖ਼ਰੀਦਣਾ kharīdṇā :lpssme:
+buy (v), ਖ਼ਰੀਦਣਾ kharīdṇā :ff625:lpssme:
 cake,ਕੇਕ
-call (v),ਕਾਲ ਦਾ
+call (v),ਕਾਲ ਦਾ **
 call/summon, ਬੁਲਾਉਣਾ bulāuṇā :lpssme:
 camera,ਕੈਮਰਾ
 camp (n),ਡੇਰੇ
 can, / to be able ਸਕਣਾ sakṇā :lpssme:
-car, ਗੱਡੀ gaḍḍī :lpssme:
-car,ਕਾਰ ਨੂੰ
+car (n), ਗੱਡੀ gaḍḍī :ff625:lpssme:
 card,ਕਾਰਡ
 carry (v),ਲੈ
 cars, ਗੱਡੀਆਂ gaḍḍīāṇ :lpssme:
-cat, ਿਬੱਲੀ billī :lpssme:
-cat,ਬਿੱਲੀ
+cat, ਬਿੱਲੀ billī :ff625:lpssme:
 catch (v),ਨੂੰ ਕੈਚ
 ceiling,ਛੱਤ
 cell phone,ਫ਼ਨ
 centimeter,??
-chair (n),ਕੁਰਸੀ
-chair, ਕੁਰਸੀ kursī :lpssme:
+chair (n), ਕੁਰਸੀ kursī :ff625:lpssme:
 chairs, ਕੁਰਸੀਆਂ kursiāṇ :lpssme:
 change (v), ਬਦਲਣਾ badalṇā :lpssme:
 cheap,ਸਸਤੇ
@@ -183,18 +176,15 @@ disease (n),ਬਿਮਾਰੀ
 doctor (n),ਡਾਕਟਰ
 dog (n),ਕੁੱਤਾ
 dollar (n),ਡਾਲਰ
-door (n),ਦਰਵਾਜ਼ਾ
-door, ਦਰਵਾਜ਼ਾ darwāzā :lpssme:
-doors, ਦਰਵਾਜੇdarvāje :lpssme:
+door (n), ਦਰਵਾਜ਼ਾ darwāzā :ff625:lpssme:
+doors, ਦਰਵਾਜੇ darvāje :lpssme:
 dot (n),ਬਿੰਦੀ
 down (a),ਥੱਲੇ
 draw (v),ਸਕੈਚ ਕਰਨ ਲਈ  # to make a sketch
 dream (n),ਸੁਪਨੇ
 dress (v),ਕੱਪੜੇ ਪਾ ਲਉ   # to get dressed
-drink (v), ਪੀਣਾ pīṇā :lpssme:
-drink (v),ਪਿਣ ਨੂੰ
-drive (v), ਚਲਾਉਣਾ chalāuṇā :lpssme:
-drive (v),ਚਲਾਨਾ
+drink (v), ਪੀਣਾ pīṇā :ff625:lpssme:
+drive (v), ਚਲਾਉਣਾ chalāuṇā :ff625:lpssme:
 drug (n),ਦਵਾਈ
 dry (a),ਸੁੱਕੀ
 dust (n),ਧੂੜ
@@ -202,18 +192,15 @@ ear (n),ਕੰਨ
 earth (n),ਧਰਤੀ ^^
 east (n),ਪੂਰਬ
 easy, ਸੌਖਾ saukhā :lpssme:
-eat (v), ਖਾਣਾ khāṇā :lpssme:
-eat (v),ਖਾਣ ਦੀ
+eat (v), ਖਾਣਾ khāṇā :ff625:lpssme:
 edge (n),ਕਿਨਾਰੇ
 egg (n),ਅੰਡੇ
-eight, ਅੱਠ āṭhṭh :lpssme:
-eight,ਅੱਠ
+eight, ਅੱਠ āṭhṭh :ff625:lpssme:
 eighteen,ਅਠਾਰਾ
 eighty (n),ਅੱਸੀ
 election (n),ਚੋਣ
 electronics,??
-eleven (n),ਗਿਆਰਾਂ
-eleven, ਿਗਆਰਾਂ giārāṇ :lpssme:
+eleven (num), ਗਿਆਰਾਂ giārāṇ :lpssme:
 energy (n),ਊਰਜਾ
 engine (n),ਇੰਜਨ
 english, ਅੰਗਰੇਜ਼ੀ aṇgrezī :lpssme: ^^
@@ -243,36 +230,30 @@ fifteen (n),ਪੰਦਰਾਂ
 fifth (a),ਪੰਜਵਾਂ
 fifty (a),ਪੰਜਾਹ
 fight (v),ਲੜਨਾ
-find (v), ਲੱਭਣਾ labhbhaṇā :lpssme:
-find (v),ਲੱਭਣਾ
+find (v), ਲੱਭਣਾ labhbhaṇā :ff625:lpssme:
 finger(n),ਉਂਗਲ
 finish (v), ਖਤਮ ਕਰਨਾ khatam karna :lpssme:
 fire (n),ਅੱਗ
-first (a),ਪਹਿਲਾ
-first, ਪਿਹਲਾ pahilā :lpssme:
+first (a),ਪਹਿਲਾ pahilā :ff625:lpssme:
 fish (n),ਮੱਛੀ
-five (a),ਪੰਜ
-five, ਪੰਜ paṇj :lpssme:
+five (num), ਪੰਜ paṇj :ff625:lpssme:
 flat (adj), # ???  **
 floor (n),ਮੰਜ਼ਲ
 flower,ਫੁੱਲ
 fly (v),ਉਡਾਣ
 follow (v),ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ
-food (n),ਭੋਜਨ
-food/meal(s), ਭੋਜਨ bhojan :lpssme:
+food/meal(s) (n), ਭੋਜਨ bhojan :ff625:lpssme:
 foot (measurement) **
 foot (n),ਪੈਰ    # (body part)
 for, ਲਈ laī :lpssme:
 forest (n),ਜੰਗਲ
 fork (n),ਕਾਂਟਾ
-forty (a),ਚਾਲੀ
-four (a),ਚਾਰ
-four, ਚਾਰ cār :lpssme:
-fourteen, ਚੌਦਾਂ
+forty (num),ਚਾਲੀ
+four (num), ਚਾਰ cār :ff625:lpssme:
+fourteen (num), ਚੌਦਾਂ
 fourth,ਚੌਥੇ
 friday,ਸ਼ੁੱਕਰਵਾਰ ^^
-friend (n),ਦੋਸਤ
-friend(s), ਦੋਸਤ dost :lpssme:
+friend(s) (n), ਦੋਸਤ dost :ff625:lpssme:
 from, ਤੋਂ toṇ :lpssme:
 front (n),ਅੱਗੇ
 game (n),ਗੇਮ
@@ -286,9 +267,8 @@ glass (n),ਗਲਾਸ
 go (v),ਜਾਣਾ
 god,ਰੱਬ ^^
 gold (n),ਸੋਨਾ
-good (a),ਚੰਗਾ
-good, ਚੰਗਾ caṇgā :lpssme:
-grandfather,ਦਾਦਾ
+good (a), ਚੰਗਾ caṇgā :ff625:lpssme:
+grandfather,ਦਾਦਾ **
 grandmother,ਦਾਦੀ
 grass (n),ਘਾਹ
 gray (a),ਸਲੇਟ
@@ -300,14 +280,12 @@ hair (n),ਵਾਲ
 half (n),ਅੱਧੇ
 hand (n),ਹੱਥ
 hang (v),ਲਟਕਣ ਲਈ
-happy (a),ਖੁਸ਼
-happy, ਖੁਸ਼ kush :lpssme:
-hard ਔਖਾ  # difficult
-hard, ਔਖਾ aukhā :lpssme:
+happy (a), ਖੁਸ਼ kush :ff625:lpssme:
+hard [difficult], ਔਖਾ aukhā :ff625:lpssme:
 hat (n),ਟੋਪੀ
 have/must (v), ਪੈਣਾ paiṇā :lpssme: **  # same as word for rain/now fall
 he,ਉਹ
-he/she/they/that, ਉਹ uh :lpssme:
+he/she/they/that, ਉਹ uh :lpssme: **
 head (n),ਸਿਰ
 healthy (a),ਸਿਹਤਮੰਦ
 hear (v),ਸੁਣਨ ਲਈ
@@ -326,21 +304,18 @@ hospital (n),ਹਸਪਤਾਲ
 hot (n),ਗਰਮ
 hotel (n),ਹੋਟਲ
 hour (n),ਘੰਟਾ
-house (n),ਘਰ
-house(s), ਘਰ ghar :lpssme:
-house(s), ਘਰ ghar :lpssme:
-how much/many, ਿਕੰਨਾ kiṇnā :lpssme:
-howਿਕਵੇਂ kiweṇ, :lpssme:
+house(s) (n), ਘਰ ghar :ff625:lpssme:
+how much/many, ਕਿੰਨਾ kiṇnā :lpssme:
+how ਕਿਵੇਂ kiweṇ, :lpssme:
 human (n),ਮਨੁੱਖ
 hundred (n),ਸੌ
 husband (n),ਪਤੀ
-i (n),ਮੈਂ ^^
-i, ਮੈਂ maiṇ :lpssme: ^^
+i (pn), ਮੈਂ maiṇ :ff625:lpssme: ^^
 ice (n),ਬਰਫ਼
 if, ਜੇ je :lpssme:
 image (n),ਰੂਪ    # ?? "form"
 important, ਮਹੱਤਵਪੂਰਣ mahattawpūaṇ :lpssme:
-in, ਿਵੱਚ wicc :lpssme:
+in, ਵਿੱਚ wicc :lpssme:
 inch (n),ਇੰਚ
 injury (n),ਸੱਟ
 inside (a),ਅੰਦਰ
@@ -363,43 +338,38 @@ kiss (v),ਚੁੱਮਣੀ
 kitchen (n),ਰਸੋਈ
 knee (n),ਗੋਡਾ
 knife (n),ਚਾਕੂ
-know (v),  ਜਾਣਨਾ jāṇnā :lpssme:
+know (v), ਜਾਣਨਾ jāṇnā :lpssme:
 lake (n),ਝੀਲ
 lamp (n),ਲੈਂਪ
 laptop (n),ਲੈਪਟਾਪ
 laugh (v),ਹੱਸਣਾ
 lawyer (n),ਵਕੀਲ
 leaf (n),ਪੱਤਾ
-learn (v), ਿਸੱਖਣਾ sikhkhaṇā :lpssme:
-learn (v),ਸਿੱਖਣਾ
+learn (v), ਸਿੱਖਣਾ sikhkhaṇā :ff625:lpssme:
 left,ਖੱਬੇ # (direction)
 leg (n),ਲੱਤ
 lemon (n),ਨਿੰਬੂ
 letter (n),ਚਿੱਠੀ
-letters, ਿਚੱਠੀਆਂ ciṭhṭhīāṇ :lpssme:
+letters, ਚਿੱਠੀਆਂ ciṭhṭhīāṇ :lpssme:
 library (n),ਪੁਸਤਕਾਲਾ
 lie down (v),ਨਿਰਧਾਰਤ ਕਰਣਾ
 lift (v),ਉਤਰਨਾ
-light (/dark),ਹਲਕਾ
-light (/heavy),ਹਲਕਾ
+light (a) [vs dark],ਹਲਕਾ ??
+light (a) [vs heavy],ਹਲਕਾ ??
 light (n),ਜੋਤ
 lip (n),ਹੋਠ
-listen (to music;v),ਸੁਣੋ
-listen/hear (v), ਸੁਣਨਾ suṇnā :lpssme:
+listen/hear (v), ਸੁਣਨਾ suṇnā :ff625:lpssme:
 location (place),ਸਥਾਨ
 lock (n),ਲਾਕ  ???
 long (a),ਲੰਬੇ
 long/tall, ਲੰਬਾ laṇbā :lpssme:
 loose (a),ਢਿੱਲੀ
-lose (v), ਗੁਆਉਣਾ guāuṇā :lpssme:
-lose (v),ਗੁਆਚਣਾ
+lose (v), ਗੁਆਉਣਾ guāuṇā :ff625:lpssme:
 loud (a),ਉੱਚੀ
-love (v), ਿਪਆਰ ਕਰਨਾ  piār karnā :lpssme:
-love (v),ਪਿਆਰ ਕਰਨਾ
+love (v), ਪਿਆਰ ਕਰਨਾ  piār karnā :ff625:lpssme:
 low (a),ਘੱਟ  ?? **
 lunch (n),ਦੁਪਹਿਰ ਦਾ ਖਾਣਾ
-magazine **
-magazines, ਰਸਾਲੇ rasāle :lpssme:
+magazines (n), ਰਸਾਲੇ rasāle :ff625:lpssme:
 make (v), ਬਣਾਉਣਾ banāuṇā :lpssme:
 male (a),ਪੁਲਿੰਗ
 man (n),ਆਦਮੀ
@@ -408,12 +378,12 @@ map (n),ਨਕਸ਼ਾ
 march (n),ਮਾਰਚ ^^
 market (n),ਮੰਡੀ
 marriage (n),ਵਿਆਹ
-marry (v),ਵਿਆਹ ਕਰਵਾਓ
+marry (v),ਵਿਆਹ ਕਰਵਾਓ ??
 material (n),ਸਮੱਗਰੀ
 may (n),ਮਈ ^^
 mean (/nice),ਅਸਲ
 medicine (n),ਦਵਾਈ
-meet (v), ਿਮਲਣਾ milṇā :lpssme:
+meet (v), ਮਿਲਣਾ milṇā :lpssme:
 melt (v),ਪਿਘਲਣ
 metal (n),ਧਾਤੂ
 meter (n),ਮੀਟਰ
@@ -422,8 +392,7 @@ million (n),ਦਸ ਲੱਖ
 minute (n),ਮਿੰਟ
 mix/stir (v),ਰਲਾਉਣ
 monday (n),ਸੋਮਵਾਰ ^^
-money (n),ਪੈਸਾ
-money, ਪੈਸਾ paisā :lpssme:
+money, ਪੈਸਾ paisā :ff625:lpssme:
 month (n),ਮਹੀਨੇ
 moon (n),ਚੰਦ
 morning (n),ਸਵੇਰੇ
@@ -431,8 +400,7 @@ mother (n),ਮਾਤਾ
 mountain (n),ਪਹਾੜ
 mouse (n),ਚੂਹਾ
 mouth (n),ਮੂੰਹ
-movie (n),ਫਿਲਮ
-movie/film, ਿਫਲਮ film :lpssme:
+movie/film, ਫਿਲਮ film :ff625:lpssme:
 murder (n),ਕਤਲ
 music (n),ਸੰਗੀਤ
 my, ਮੇਰਾ mairā :lpssme:
@@ -443,16 +411,14 @@ neck (n),ਗਰਦਨ
 needle (n),ਸੂਈ
 neighbor (n),ਗੁਆਂਢੀ
 network (n),ਨੈਟਵਰਕ
-new (a),ਨਵਾਂ
-new, ਨਵਾਂ nawāṇ :lpssme:
+new (a), ਨਵਾਂ nawāṇ :ff625:lpssme:
 newspaper (n),ਅਖ਼ਬਾਰ
 next, ਅਗਲਾ āgalā :lpssme:
 nice (a),ਚੰਗੇ
 night (n),ਰਾਤ
-nine, ਨੌ ਂ nauṇ :lpssme:
-nine,ਨੌਂ
-nineteen,ਉੱਨੀ
-ninety,ਨੱਬੇ
+nine (num), ਨੌਂ nauṇ :ff625:lpssme:
+nineteen (num),ਉੱਨੀ
+ninety (num),ਨੱਬੇ
 no,ਨਹੀਂ
 north,ਉੱਤਰ
 nose (n),ਨੱਕ
@@ -466,18 +432,15 @@ october (n),ਅਕਤੂਬਰ ^^
 of, ਦਾ dā :lpssme:
 office (n),ਦਫਤਰ
 oil (n),ਤੇਲ
-old (/new)  ਪੁਰਾਣਾ  ??
-old (/young) ਬਿਰਧ  ??
-old, ਪੁਰਾਣਾ purāṇā :lpssme:
+old (a) [vs new], ਪੁਰਾਣਾ purāṇā :ff625:lpssme:
+old [vs young]  ਬਿਰਧ  ??
 on, ਉੱਤੇ utte :lpssme:
-one, ਇਕ ik :lpssme:
-one,ਇਕ
-open (v), ਖੋਲਹਣਾ kholhṇā :lpssme:
-open (v),ਖੋਲ੍ਹਣ  ??
+one (num), ਇਕ ik :lpssme:
+open (v), ਖੋਲਹਣਾ kholhṇā :ff625:lpssme:
 orange (color),ਸੰਤਰਾ ਰੰਗ
 orange (food),ਸੰਤਰਾ
 other/second, ਦੂਜਾ dūjā :lpssme:
-other/second, ਦੂਸਰਾ dūsrā :lpssme:
+other/second, ਦੂਸਰਾ dūsrā :lpssme: **
 our, ਸਾਡਾ sāḍhā :lpssme:
 outside (a),ਬਾਹਰ
 page (n),ਪੰਨਾ
@@ -518,8 +481,7 @@ pork (n),ਸੂਰ ਦਾ ਮਾਸ
 pound (weight),ਪਾਉਂਡ
 pray (v),ਅਰਦਾਸ ਕਰੋ
 president (n),ਰਾਸ਼ਟਰਪਤੀ
-price (n),ਕੀਮਤ
-price, ਕੀਮਤ kīmat :lpssme:
+price (n), ਕੀਮਤ kīmat :ff625:lpssme:
 priest (n),ਪਾਦਰੀ
 prison (n),ਜੇਲ੍ਹ
 program (computer),ਪ੍ਰੋਗ੍ਰਾਮ ?
@@ -530,13 +492,11 @@ push (v),ਧੱਕਾ
 put/keep (v), ਰੱਖਣਾ rakhkhaṇā :lpssme:
 queen (n),ਰਾਣੀ
 question(s), ਸਵਾਲ sawāl :lpssme:
-question, ਸਵਾਲ :lpssme:
 quiet (a),ਸ਼ਾਂਤ
 race (ethnicity) ?? **
 race (sport),ਦੌੜ
 radio (n),ਰੇਡੀਓ
-rain (n),ਵਰਖਾ
-rain, ਮੀ ਂ ਹ mīṇh :lpssme:
+rain (n), ਮੀਂਹ mīṇh :ff625:lpssme:  # ** also ਵਰਖਾ, ਬਾਰਿਸ਼
 read (v), ਪੜਹਨਾ par̥hnā :lpssme:
 reason(s), ਕਾਰਨ kāran :lpssme:
 red,ਲਾਲ
@@ -551,8 +511,7 @@ right (direction),ਸੱਜੇ
 ring (n),ਮੁੰਦਰੀ
 river (n),ਨਦੀ
 roof (n),ਛੱਤ
-room (in a house) (n), ਕਮਰੇ
-room, ਕਮਰਾ kamrā :lpssme:
+room [in a house] (n), ਕਮਰਾ kamrā :ff625:lpssme:
 root (n),ਜੜ੍ਹ ?
 run (v),ਚੱਲ ਰਿਹਾ | ਦੌੜਨਾ  ??
 sad (a),ਉਦਾਸ
@@ -566,31 +525,28 @@ scream (v),ਚੀਕਣ
 screen (n), ਪਰਦਾ
 sea (n),ਸਮੁੰਦਰ   / same word as ocean **
 season (n), ਮੌਸਮ
-second (2nd),ਦੂਜਾ
-second (time),ਸਕਿੰਟ
+second [2nd],ਦੂਜਾ
+second [time],ਸਕਿੰਟ
 secretary (n),ਸਕੱਤਰ
-see (a bird), ਦੇਖਣ ?
-see (v), ਦੇਖਣਾ dekhṇā :lpssme:
+see (v), ਦੇਖਣਾ dekhṇā :ff625:lpssme:
 seed (n),ਬੀਜ
 sell (v),vechna?
 september, ^^
-seven, satt?
-seven, ਸੱਤ satt :lpssme:
-seventeen, satur?
-seventy, ?
-sex (gender), ?
-sex (the act), ?
+seven (num), ਸੱਤ satt :ff625:lpssme:
+seventeen (num), satur?
+seventy (num), ?
+sex (n) [gender], ?
+sex (n) [the act], ?
 shake (v)
 shallow
 she
 ship
 shirt
-shoes
-shoes, ਜੁੱਤੀਆਂ juttīāṇ :lpssme:
+shoes (n), ਜੁੱਤੀਆਂ juttīāṇ :ff625:lpssme:
 shoot (a gun)
 shop, ਦੁਕਾਨ dukān :lpssme:
-short (/long)
-short (/tall)
+short [vs long]
+short [vs tall]
 should/ought, ਚਾਹੀਦਾ cāhīdā :lpssme:
 shoulder
 show (v), ਿਦਖਾਉਣਾ dikhāuṇā :lpssme:
@@ -600,35 +556,29 @@ sign (n)
 sign (v)
 silence, ਚੁੱਪ cupp :lpssme:
 silver
-sing (v)
-sing (v), ਗਾਉਣਾ gāuṇā :lpssme:
+sing (v), ਗਾਉਣਾ gāuṇā :ff625:lpssme:
 sister
-sit (v)
-sit (v),  ਬੈਠਣਾ baiṭhṇā :lpssme:
-six, che?
-six, ਛੇ che :lpssme:
-sixteen
-sixty
+sit (v),  ਬੈਠਣਾ baiṭhṇā :ff625:lpssme:
+six (num), ਛੇ che :ff625:lpssme:
+sixteen (num)
+sixty (num)
 skin
 skirt
 sky
-sleep (v)
-sleep (v), ਸੌਣਾ sauṇā :lpssme:
+sleep (v), ਸੌਣਾ sauṇā :ff625:lpssme:
 slow
 small/little
 small/short, ਛੋਟਾ choṭā :lpssme:
 smell (v)
 smile (v)
-snow (n),ਹਿਮ
-snow/ice, ਬਰਫ਼ barf :lpssme:
+snow/ice (n), ਬਰਫ਼ barf :lpssme:  # ** ਹਿਮ also means snow?
 so that, ਤਾਂਿਕ tāṇki :lpssme:
 soap
 soft (a),ਕੋਮਲ
 soil/earth
 soldier
 son
-song
-songs(s), ਗੀਤ gīt :lpssme:
+song(s) (n), ਗੀਤ gīt :lpssme:
 sound
 soup
 south
@@ -673,8 +623,7 @@ telephone
 television
 tell (v), ਦੱਸਣਾ dassaṇā :lpssme:
 temperature
-ten
-ten, ਦਸ das :lpssme:
+ten (num), ਦਸ das :ff625:lpssme:
 that, ਿਕ ki :lpssme:
 theater
 their, ਉਹਨਾਂ ਦਾ uhnāṇ dā :lpssme:
@@ -682,14 +631,12 @@ then, ਤਾਂ tāṇ :lpssme:
 they
 thick
 thin
-think (v)
-think (v), ਸੋਚਣਾ socṇā :lpssme:
+think (v), ਸੋਚਣਾ socṇā :ff625:lpssme:
 third (3rd),ਤੀਜਾ
-thirteen
-thirty
-thousand
-three
-three, ਿਤੰਨ tiṇn :lpssme:
+thirteen (num)
+thirty (num)
+thousand (num)
+three (num), ਿਤੰਨ tiṇn :ff625:lpssme:
 throw (v)
 thursday ^^
 ticket (train)
@@ -716,12 +663,10 @@ truck
 try (v), ਕੋਿਸ਼ਸ਼ ਕਰਨੀ koshish karnī :lpssme:
 tuesday ^^
 turn (v)
-twelve
-twelve, ਬਾਰਹਾਂ bārhāṇ :lpssme:
-twenty
-twenty-one (etc)
-two
-two, ਦੋ do :lpssme:
+twelve (num), ਬਾਰਹਾਂ bārhāṇ :lpssme:
+twenty (num)
+# twenty-one (etc) **
+two (num), ਦੋ do :ff625:lpssme:
 ugly
 understand (v), ਸਮਝਣਾ samajhṇā :lpssme:
 university
@@ -736,19 +681,16 @@ voice (n)
 vowel
 waiter
 wake up (v)
-walk (v)
-walk (v), ਤੁਰਨਾ turṇā :lpssme:
+walk (v), ਤੁਰਨਾ turṇā :ff625:lpssme:
 wall
 want (v), ਚਾਹੁਣਾ cāhuṇā :lpssme:
 war
 warm (adj)
 wash (v)
 watch (v; ex: watch tv)
-water (n)
-water, ਪਾਣੀ pāṇī :lpssme:
+water, ਪਾਣੀ pāṇī :ff625:lpssme:
 wave (ocean)
-we
-we, ਅਸੀਂāsīṇ :lpssme:
+we, ਅਸੀਂāsīṇ :ff625:lpssme:
 weak
 wear (v)
 wedding
@@ -777,18 +719,15 @@ with, ਨਾਲ nāl :lpssme:
 woman
 wood
 word (n),ਸ਼ਬਦ
-work (v)
-work (v), ਕੰਮ ਕਰਨਾ kaṇm karnā :lpssme:
-work, ਕੰਮ kaṇm :lpssme:
+work (v), ਕੰਮ ਕਰਨਾ kaṇm karnā :ff625:lpssme:
+work (n), ਕੰਮ kaṇm :lpssme:
 world
-write (v)
 write (v), ਿਲਖਣਾ likhṇā :lpssme:
 yard
 year
 yellow
 yes
-you (sing; plural)
-you, ਤੁਸੀਂtusī :lpssme:
+you, ਤੁਸੀਂ tusī :ff625:lpsme:
 young
 your, ਤੁਹਾਡਾ tuhāḍhā :lpssme:
-zero
+zero (num)
