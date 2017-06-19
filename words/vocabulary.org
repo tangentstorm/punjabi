@@ -71,7 +71,7 @@ bill (n),ਬਿੱਲ or ਨੋਟ
 billion,ਅਰਬ
 bird,ਪੰਛੀ
 black,ਕਾਲਾ
-blind (adj),ਅੰਨਹੇ / ਅੰਨ੍ਹੇ
+blind (a),ਅੰਨਹੇ / ਅੰਨ੍ਹੇ
 blood,ਬਲੱਡ
 blue,ਨੀਲਾ
 boat,ਕਿਸ਼ਤੀ
@@ -124,7 +124,7 @@ church,ਚਰਚ ਦੇ
 circle (n),ਚੱਕਰ
 city,ਸ਼ਹਿਰ ਦੀ
 clay,ਮਿੱਟਾ
-clean (adj),ਸਾਫ਼
+clean (a),ਸਾਫ਼
 clean (v),ਸਾਫ਼ ਕਰਨ ਲਈ
 clock (n),ਘੜੀ
 close (v),ਬੰਦ ਕਰਨਾ
@@ -141,7 +141,7 @@ computer (n),ਕੰਪਿਊਟਰ
 consonant (n),ਵਿਅੰਜਨ
 contract (n),ਇਕਰਾਰਨਾਮਾ
 cook (v),ਪਕਾਉਣ
-cool (adj),ਠੰਡਾ    # same as cold **
+cool (a),ਠੰਡਾ    # same as cold **
 copper (n),ਤਾਂਬਾ
 corn (n),ਮਕਈ
 corner (n),ਨੁੱਕਰ
@@ -237,7 +237,7 @@ fire (n),ਅੱਗ
 first (a),ਪਹਿਲਾ pahilā :ff625:lpssme:
 fish (n),ਮੱਛੀ
 five (num), ਪੰਜ paṇj :ff625:lpssme:
-flat (adj), # ???  **
+flat (a), # ???  **
 floor (n),ਮੰਜ਼ਲ
 flower,ਫੁੱਲ
 fly (v),ਉਡਾਣ
@@ -359,6 +359,7 @@ light (a) [vs heavy],ਹਲਕਾ ??
 light (n),ਜੋਤ
 lip (n),ਹੋਠ
 listen/hear (v), ਸੁਣਨਾ suṇnā :ff625:lpssme:
+little (a),ਨਿੱਕਾ :mjw: # little kid/young?
 location (place),ਸਥਾਨ
 lock (n),ਲਾਕ  ???
 long (a),ਲੰਬੇ
@@ -685,7 +686,7 @@ walk (v), ਤੁਰਨਾ turṇā :ff625:lpssme:
 wall (n),ਕੰਧ
 want (v), ਚਾਹੁਣਾ cāhuṇā :lpssme:
 war (n),ਜੰਗ
-warm (adj),ਗਰਮ
+warm (a),ਗਰਮ
 wash (v),ਧੋਣੇ
 watch (v) [ex: watch tv],ਦੇਖ ਰਹੇ ਹੋ  # ?? google: watching tv -> ਟੀਵੀ ਦੇਖਣਾ
 water, ਪਾਣੀ pāṇī :ff625:lpssme:
@@ -693,13 +694,13 @@ wave [ocean],ਲਹਿਰ
 wave (v),ਅਲਵਿਦਾ ਕਰਨ # ??
 we, ਅਸੀਂāsīṇ :ff625:lpssme:
 weak (a),ਕਮਜ਼ੋਰ
-wear (v)
-wedding
-wednesday ^^
-week
-weight
-west
-wet (adj)
+wear (v),ਪਹਿਨਣ ਲਈ # ?? gt
+wedding (n),ਵਿਆਹ
+wednesday (n),ਬੁੱਧਵਾਰ ^^
+week (n),ਹਫ਼ਤੇ
+weight (n),ਭਾਰ
+west (n),ਪੱਛਮ
+wet (a),ਭਿੱਜ  # ?? bhi/jna seems to mean "to get drenched"
 what, ਕੀ kī :lpssme:
 when, ਕਦੋਂ kadoṇ :lpssme:
 when, ਜਦੋਂjadoṇ :lpssme:
@@ -708,27 +709,27 @@ which, ਕਿਹੜਾ kihr̥ā :lpssme:
 white (a), ਚਿੱਟਾ
 who, ਕੌਣ kauṇ :lpssme:
 why, ਕਿਉਂ kiuṇ :lpssme:
-wide
-wife
-win (v)
-wind (n)
-window
-wine
-wing
-winter
+wide (a),ਚੌੜਾ
+wife (n),ਪਤਨੀ
+win (v),ਜਿੱਤਣ
+wind (n),ਹਵਾ
+window (n), ?? dictionary: ਤਕੀ  gt: ਵਿੰਡੋ
+wine (n), ਸ਼ਰਾਬ
+wing (n) ਖੰਭ # ਵਿੰਗ ?? dict says ਖੰਭ but gt translates this as "feathers". however, wings->khanbh
+winter (n),ਸਰਦੀ
 with, ਨਾਲ nāl :lpssme:
-woman
-wood
+woman (n),ਔਰਤ
+wood (n),ਲੱਕੜ
 word (n),ਸ਼ਬਦ
 work (v), ਕੰਮ ਕਰਨਾ kaṇm karnā :ff625:lpssme:
 work (n), ਕੰਮ kaṇm :lpssme:
-world
+world (n), ਸੰਸਾਰ
 write (v), ਿਲਖਣਾ likhṇā :lpssme:
-yard
-year
-yellow
-yes
+yard (n), ਯਾਰਡ # ?? of a house? dictionary: gaz?
+year (n),ਸਾਲ
+yellow (n),ਪੀਲਾ
+yes (n),ਹਾਂ
 you, ਤੁਸੀਂ tusī :ff625:lpsme:
-young
+young (a),ਨੌਜਵਾਨ
 your, ਤੁਹਾਡਾ tuhāḍhā :lpssme:
-zero (num)
+zero (num) ਸਿਫ਼ਰ
