@@ -1,0 +1,172 @@
+* group 1
+| man| dirty| inch| nice| wine|	
+| office | river| camp (n)| pig| cold|
+| pencil| sand| twelve| turn (v)| paper|
+| tight| horse| bend (v)| direction | dust|
+| hotel| child | stain | lake | medicine
+
+* group 2
+
+| color (n) | second (time) | train (n) | west | wave (ocean) |
+| good | quiet | side | sixteen | victim |
+| space (outer space) | hard | stone | baby | March
+| pants | orange (food) | thick | park (location) | corner (n)
+| team | summer | sister | fast | ground
+
+* group 3
+
+| wake up (v) | library | cheese | stand (v) | big/large
+| bottle | soap | young | person | copper
+| eye (n) | slow | explode (v) | market | Thursday
+| tool | exercise (n) | neck | farm (n) | neighbor
+| front | prison | player | wall | up
+
+* group 4 
+| Friday | win (v) | pray (v) | nineteen | thousand
+| beach | gold | February | three | blood
+| glass | restaurant | new | burn (v) | sick
+| poison (n) | flower | bag (n) | heaven | dress (n)
+
+* group 5
+| key | taste (v) | diamond | coat (n) | billion
+| photograph | program (computer) | seventy | water (n) | grandfather
+| dream (n) | wood | air | image | newspaper
+| woman | knee | sixty | police | tongue
+| sun | hair | clean (v) | pain | beat (v)
+
+* group 6
+| alive | jump (v) | heavy | metal | August
+| build (v) | sound | dot | number | gray
+| no | pink | right (direction) | cake | red
+| card | contract (n) | two | consonant | doctor
+| silver | artist | soldier | movie | ring
+
+* group 7 
+| work (v) | curved | spoon | tooth | king
+| we | technology | religion | face (n) | cow
+| bill (n) | dance (v) | fifteen | body | magazine
+| actor | sweat (n) | stop (v) | book | clay
+| hole | building | truck | month | fight (v)
+
+* group 8
+| strong | feed (v) | nuclear | lip | army
+| voice (n) | ear | dig (v) | yes | square
+| follow (v) | high | marriage | run (v) | wife
+| airport | tire (of a car) | October | president | hell
+| daughter | milk | hour | watch (v, ex: watch tv) | bar (location)
+
+* group 9
+| beer | love (v) | bicycle | male | pass (v)
+| mean (/nice) | healthy | needle | seed | bank
+| tear (drop) | town | walk (v) | leaf | edge
+| fish (n) | box (n) | open (v) | Earth | grandmother
+| note (on paper) | top | author (n) | food | sport
+
+* group 10
+| wet (adj) | attack (n) | fifth (5th) | breakfast | sign (v)
+| forest | it | wedding | dark | ball
+| crowd (n) | buy (v) | minute | shoes | network
+| Tuesday | electronics | ice | student | think (v)
+| loud | sex (gender) | manager | six | ten
+
+* group 11
+| sad | sit (v) | smile (v) | fourteen | heat (n)
+| father | die (v) | laptop | heart | circle (n)
+| July | shallow | soup | lawyer | material
+| happy | white | temperature | world | bread
+| fall (v) | root | court | forty | school
+
+* group 12
+| bus | salt | flat (adj) | injury | church
+| eighteen | beard | island | plane | energy
+| close (v) | death | coffee | female | drive (v)
+| sell (v) | bone | call (v) | rich | hat
+| toe | cup | five | bottom | foot (body part)
+
+* group 13
+| outside | east | bed | foot (measurement) | country (ex: USA, Spain)
+| door | cheap | city | pork | suit (n)
+| ugly | third (3rd) | straight | first (1st) | friend
+| fall (season) | speak/say (v) | screen | train station | gasoline
+| south | yard | theater | God | ship
+
+* group 14
+| nine | animal | engine | million | cut (v)
+| room (in a house) | game | bad | cook (v) | year
+| marry (v) | sing (v) | catch (v) | go (v) | music
+| date (ex: May 7) | priest | deep | skin | map
+| chicken | week | January | twenty | computer
+
+* group 15
+| song | mountain | lie down (v) | lift (v) | pound (weight)
+| lose (v) | sea | paint | drink (v) | poor
+| hand | winter | verb | war | long
+| roof | thirty | centimeter | vowel | cell phone
+| wing | teacher | sleep (v) | listen (music,v) | sex (the act)
+
+* group 16
+| melt (v) | grass | eight | soft | November
+| mouth | blind (adj) | short (/tall) | window | night
+| fan (sport) | fly (v) | clean (adj) | kitchen | juice
+| moon | orange (color) | television | family | eleven
+| laugh (v) | shirt | reporter | club (location) | secretary
+
+* group 17
+| boat | hang (v) | meter | location | T-shirt
+| morning | ninety | left (direction) | apartment
+| deaf | spring (season) | pen | she | kiss (v)
+| wind (n) | head | piece | famous | race (ethnicity)
+| weak | patient (n) | clothing | ceiling | evening
+
+* group 18
+| science | store/shop | back (direction) | weight | waiter
+| lunch | pull (v) | second (2nd) | light (/heavy) | black
+| thin | election | gift | telephone | queen | short (/long)
+| pocket | eat | human | nature | skirt
+| rice | chair (n) | apple | blue | eat (v)
+
+* group 19
+| tea | beverage | rain (n) | money | old (/new)
+| north | corn | wear (v) | hot | seventeen
+| learn (v) | page | cry (v) | shoulder | fifty
+| beef | push (v) | peace | tall | clock
+| hospital | beautiful | girl | Saturday | university
+
+* group 20
+| afternoon | parent | bird | expensive | light (/dark)
+| warm (adj) | banana | brown | mouse | car
+| drug (n) | lamp | light (n) | soil/earth | house
+| arm | twenty-one (etc) | finger | disease
+| see (a bird) | dinner | four | fork | pattern
+
+* group 21
+| touch (v) | fan (electric) | Sunday | eighty | kilogram
+| cool (adj) | I | ocean | throw (v) | snow (n)
+| husband | plant (n) | radio | low | you (sing, plural)
+| hill | egg | yellow | back (body) | job
+| zero | loose | brain | adjective | dog
+
+* group 22
+| boy | dead | hundred | valley | brother
+| bathroom | inside | pool | they | oil
+| pay (v) | swim (v) | seven | season | transportation
+| green | shake (v) | son | December | lemon
+| September | day | fourth (4th) | bridge (n) | instrument (musical)
+
+* group 23
+| murder (n) | dry | fire (n) | nose | sugar | kill (v)
+| art | plate | Wednesday | wash (v) | draw (v)
+| band (music) |wide |one|half|sign (n)
+| April |shoot (a gun)|grow (v)| time (n)|price
+| mother|mix/stir (v)|carry (v)|garden|race (sport)
+
+* group 24
+| bedroom | lock (n) | tree | he | thirteen
+| find (v) | write (v) | May | leg | play (v)
+| floor | letter | gun | ticket (train) | dollar
+| count (v) | break (v) | small/little | adult | June
+| star | old (/young) | knife | street/road | sky
+
+* group 25
+| down | camera | narrow | smell (v) | plastic
+| Monday | hear (a sound) | table
